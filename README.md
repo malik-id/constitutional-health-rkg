@@ -1,6 +1,6 @@
 # Constitutional Health SPM — Regulatory Knowledge Graph
 
-> **Repositori penelitian privat (pra-submisi).** Konten ini tidak dimaksudkan sebagai opini hukum final atau bukti bahwa terjadi konflik kewenangan.
+> **Repositori (pra-submisi).** Konten ini tidak dimaksudkan sebagai opini hukum final atau bukti bahwa terjadi konflik kewenangan.
 
 **Judul penelitian:**  
 **Analisis Hubungan Norma Konstitusional dan Pembagian Kewenangan dalam Standar Pelayanan Minimal Kesehatan Berbasis Regulatory Knowledge Graph**
