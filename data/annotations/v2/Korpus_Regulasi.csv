@@ -1,0 +1,8 @@
+index,ID,Nama_dokumen,Tipe,Tahun,URL_teks_resmi,Catatan_status
+0,R01,UUD NRI Tahun 1945 dalam satu naskah,Konstitusi,1945,https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf,Konstitusi; sumber resmi MPR
+1,R02,UU No. 23 Tahun 2014 tentang Pemerintahan Daerah,Undang-undang,2014,https://jdih.kemenkeu.go.id/api/download/fulltext/2014/23TAHUN2014UU.htm,Teks dasar resmi; wajib memperhatikan perubahan/putusan terkait
+2,R03,UU No. 17 Tahun 2023 tentang Kesehatan,Undang-undang,2023,https://p2.kemkes.go.id/wp-content/uploads/2024/08/Undang-undang-Republik-Indonesia-Nomor-17-Tahun-2023-tentang-Kesehatan.pdf,Salinan resmi di domain Kementerian Kesehatan
+3,R04,PP No. 2 Tahun 2018 tentang Standar Pelayanan Minimal,Peraturan Pemerintah,2018,https://www.peraturan.go.id/files/pp2-2018bt.pdf,Teks resmi peraturan.go.id
+4,R05,Permendagri No. 59 Tahun 2021 tentang Penerapan SPM,Peraturan Menteri,2021,https://peraturan.go.id/files/bn1419-2021.pdf,Berita Negara No. 1419 tahun 2021
+5,R06,Permenkes No. 6 Tahun 2024 tentang Standar Teknis Pemenuhan SPM Kesehatan,Peraturan Menteri,2024,https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf,Berlaku menurut JDIH Kemenkes; mencabut Permenkes 4/2019
+6,R07,Perpres No. 13 Tahun 2026 tentang Pengelolaan Kesehatan,Peraturan Presiden,2026,https://jdih.kemkes.go.id/storage/documents/pdfs/2026perpres013.pdf,"Berlaku sejak 11 Maret 2026; mencabut Perpres 72/2012; regulasi pendukung, bukan khusus SPM"

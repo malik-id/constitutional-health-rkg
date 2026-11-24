@@ -1,0 +1,442 @@
+<PARSED TEXT FOR PAGE: 1 / 8>
+KUESIONER VALIDASI PAKAR
+Instrumen A · Penilaian mandiri atas 6 relasi interpretatif (E3) · Versi 1.0
+
+Penelitian: Analisis Hubungan Norma Konstitusional dan Pembagian Kewenangan dalam Standar
+Pelayanan Minimal Kesehatan Berbasis Regulatory Knowledge Graph
+
+
+Tujuan
+Memeriksa kesesuaian hubungan normatif yang diusulkan antara norma konstitusional,
+pengaturan kesehatan, dan kewajiban penerapan Standar Pelayanan Minimal (SPM) Kesehatan.
+Penilaian digunakan untuk memperbaiki relasi dalam Regulatory Knowledge Graph (RKG), bukan
+sebagai penetapan resmi arti peraturan.
+
+
+Identitas dan persetujuan pakar
+
+ Kode pakar                    P____
+
+ Nama / gelar                  ........................................................................
+
+ Afiliasi / jabatan            ........................................................................
+
+ Bidang keahlian               ........................................................................
+
+ Tanggal pengisian             ........................................................................
+
+ Kontak (opsional)             ........................................................................
+
+Saya telah menerima penjelasan tujuan penelitian; berpartisipasi secara sukarela; dan
+mengizinkan pendapat saya digunakan untuk analisis ilmiah dengan kode anonim, kecuali saya
+mengizinkan penyebutan nama secara terpisah.
+
+Persetujuan partisipasi: [ ] Ya [ ] Tidak                         Izin mencantumkan nama: [ ] Ya [ ] Tidak
+
+Pernyataan konflik kepentingan: [ ] Tidak ada [ ] Ada, jelaskan: ................................................
+
+
+Petunjuk pengisian
+   • Baca pasal/ayat dalam salinan peraturan resmi yang dilampirkan. Ringkasan di instrumen ini
+   adalah parafrasa, bukan kutipan verbatim.
+
+   • Untuk masing-masing relasi, berikan skor untuk empat kriteria, pilih keputusan, dan tuliskan
+   alasan/rujukan.
+
+   • Skor: 1 = tidak tepat; 2 = perlu revisi substansial; 3 = cukup tepat dengan revisi; 4 = tepat
+   dengan dukungan memadai; TD = tidak dapat dinilai.
+
+   • Tidak ada kewajiban untuk menyetujui hubungan kandidat. Pakar boleh mengubah arah
+   panah, mengusulkan relasi lain, atau menyatakan bukti tidak cukup.
+
+   • Harap bedakan rujukan eksplisit pada tingkat dokumen (misalnya bagian Mengingat) dengan
+   hubungan substansial antarunit norma.
+
+
+
+
+                                                                                                          Validasi Pakar RKG–SPM Kesehatan | 1
+<PARSED TEXT FOR PAGE: 2 / 8>
+Relasi 1 dari 6 · K01
+Prinsip otonomi daerah dan urusan kesehatan
+
+ Norma asal             N01 — UUD NRI 1945, Pasal 18 ayat (2)
+
+ Norma tujuan           N06 — UU 23/2014, Pasal 12 ayat (1) huruf b
+
+ Relasi kandidat        KERANGKA_OTONOMI
+
+ Tingkat bukti          E3 — interpretatif; belum divalidasi pakar
+
+
+Ringkasan sumber (parafrasa)
+UUD mengatur otonomi; UU menggolongkan kesehatan sebagai urusan wajib dasar.
+Batas interpretasi: Tidak ada rujukan langsung dari pasal UUD kepada pasal UU yang diuji.
+
+Pertanyaan pokok
+Sejauh mana asas otonomi daerah pada Pasal 18 ayat (2) dapat menjadi kerangka penafsiran bagi
+pengaturan kesehatan sebagai urusan pemerintahan wajib yang berkaitan dengan pelayanan
+dasar?
+
+Penilaian
+
+ K1. Relevansi hubungan menurut hukum                          [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K2. Ketepatan makna norma dan subjek hukum                    [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K3. Kecukupan dasar hukum dan argumentasi                     [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K4. Ketepatan label/arah relasi untuk RKG                     [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+**Jenis hubungan paling tepat (pilih satu):**
+
+[ ] Konteks konstitusional      [ ] Penjabaran normatif      [ ] Hubungan umum–khusus
+
+[ ] Hubungan tematik saja       [ ] Tidak ada hubungan cukup kuat          [ ] Lainnya: ..................
+
+**Keputusan:**     [ ] Terima     [ ] Revisi   [ ] Tolak   [ ] Bukti belum memadai
+Alasan hukum, pasal/ayat pendukung atau pengoreksi:
+
+
+
+
+Saran label relasi/arah panah/perantara normatif (bila ada):
+
+
+
+
+Hal yang boleh dipertimbangkan: Apakah relasi ini cukup disebut konteks konstitusional atau dapat
+dikategorikan sebagai penjabaran norma? Ketentuan lain apa yang perlu ditambahkan agar batas kewenangan
+pusat-daerah tidak disederhanakan?
+
+
+
+
+                                                                           Validasi Pakar RKG–SPM Kesehatan | 2
+<PARSED TEXT FOR PAGE: 3 / 8>
+Relasi 2 dari 6 · K02
+Hubungan kewenangan pusat-daerah dan klasifikasi urusan kesehatan
+
+ Norma asal            N02 — UUD NRI 1945, Pasal 18A ayat (1)
+
+ Norma tujuan          N06 — UU 23/2014, Pasal 12 ayat (1) huruf b
+
+ Relasi kandidat       KONTEKS_PEMBAGIAN_KEWENANGAN
+
+ Tingkat bukti         E3 — interpretatif; belum divalidasi pakar
+
+
+Ringkasan sumber (parafrasa)
+UUD mengatur hubungan wewenang pusat-daerah; UU mengklasifikasikan kesehatan.
+Batas interpretasi: Pasal 12 mengklasifikasikan urusan; belum secara mandiri merinci
+kewenangan SPM tiap tingkat pemerintahan.
+
+Pertanyaan pokok
+Apakah pengaturan kesehatan sebagai urusan wajib pelayanan dasar cukup merepresentasikan
+hubungan kewenangan pusat-daerah menurut Pasal 18A ayat (1)?
+
+Penilaian
+
+ K1. Relevansi hubungan menurut hukum                          [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K2. Ketepatan makna norma dan subjek hukum                    [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K3. Kecukupan dasar hukum dan argumentasi                     [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K4. Ketepatan label/arah relasi untuk RKG                     [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+**Jenis hubungan paling tepat (pilih satu):**
+
+[ ] Konteks konstitusional      [ ] Penjabaran normatif      [ ] Hubungan umum–khusus
+
+[ ] Hubungan tematik saja       [ ] Tidak ada hubungan cukup kuat          [ ] Lainnya: ..................
+
+**Keputusan:**     [ ] Terima     [ ] Revisi   [ ] Tolak   [ ] Bukti belum memadai
+Alasan hukum, pasal/ayat pendukung atau pengoreksi:
+
+
+
+
+Saran label relasi/arah panah/perantara normatif (bila ada):
+
+
+
+
+Hal yang boleh dipertimbangkan: Perlukah menggunakan lampiran pembagian urusan pemerintahan dan
+ketentuan urusan konkuren sebagai penghubung? Bagaimana membedakan klasifikasi urusan dengan alokasi
+kewenangan konkret pada tiap tingkat pemerintahan?
+
+
+
+
+                                                                           Validasi Pakar RKG–SPM Kesehatan | 3
+<PARSED TEXT FOR PAGE: 4 / 8>
+Relasi 3 dari 6 · K03
+Hak atas pelayanan kesehatan dan tanggung jawab penyelenggaraan upaya
+kesehatan
+
+ Norma asal            N04 — UUD NRI 1945, Pasal 28H ayat (1)
+
+ Norma tujuan          S07 — UU 17/2023, Pasal 19 ayat (1)
+
+ Relasi kandidat       HAK_DAN_TANGGUNG_JAWAB
+
+ Tingkat bukti         E3 — interpretatif; belum divalidasi pakar
+
+
+Ringkasan sumber (parafrasa)
+Pasal 28H(1) memuat hak pelayanan kesehatan; UU 17 Pasal 19(1) memuat tanggung jawab upaya
+kesehatan.
+Batas interpretasi: Bagian Mengingat UU mencantumkan pasal UUD, tetapi hubungan antarunit
+norma tetap membutuhkan argumentasi.
+
+Pertanyaan pokok
+Bagaimana hubungan antara hak konstitusional memperoleh pelayanan kesehatan dan tanggung
+jawab pemerintah menyelenggarakan upaya kesehatan perseorangan serta masyarakat?
+
+Penilaian
+
+ K1. Relevansi hubungan menurut hukum                          [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K2. Ketepatan makna norma dan subjek hukum                    [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K3. Kecukupan dasar hukum dan argumentasi                     [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K4. Ketepatan label/arah relasi untuk RKG                     [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+**Jenis hubungan paling tepat (pilih satu):**
+
+[ ] Konteks konstitusional      [ ] Penjabaran normatif      [ ] Hubungan umum–khusus
+
+[ ] Hubungan tematik saja       [ ] Tidak ada hubungan cukup kuat          [ ] Lainnya: ..................
+
+**Keputusan:**     [ ] Terima     [ ] Revisi   [ ] Tolak   [ ] Bukti belum memadai
+Alasan hukum, pasal/ayat pendukung atau pengoreksi:
+
+
+
+
+Saran label relasi/arah panah/perantara normatif (bila ada):
+
+
+
+
+Hal yang boleh dipertimbangkan: Apakah hubungan yang tepat berupa konteks hak konstitusional, pelaksanaan
+kewajiban negara, atau penjabaran normatif? Apakah hak atas pelayanan kesehatan dan keseluruhan upaya
+kesehatan merupakan objek hukum yang sama?
+
+                                                                           Validasi Pakar RKG–SPM Kesehatan | 4
+<PARSED TEXT FOR PAGE: 5 / 8>
+Relasi 4 dari 6 · K04
+Tanggung jawab negara atas fasilitas dan penyelenggaraan upaya kesehatan
+
+ Norma asal             N05 — UUD NRI 1945, Pasal 34 ayat (3)
+
+ Norma tujuan           S07 — UU 17/2023, Pasal 19 ayat (1)
+
+ Relasi kandidat        PRINSIP_TANGGUNG_JAWAB_NEGARA
+
+ Tingkat bukti          E3 — interpretatif; belum divalidasi pakar
+
+
+Ringkasan sumber (parafrasa)
+UUD Pasal 34(3) memuat tanggung jawab fasilitas; UU 17 Pasal 19(1) tanggung jawab upaya
+kesehatan.
+Batas interpretasi: Objek fasilitas pelayanan dan upaya kesehatan tidak identik secara tekstual.
+
+Pertanyaan pokok
+Bagaimana hubungan tanggung jawab negara menyediakan fasilitas pelayanan kesehatan yang
+layak dengan tanggung jawab pemerintah menyelenggarakan upaya kesehatan?
+
+Penilaian
+
+ K1. Relevansi hubungan menurut hukum                          [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K2. Ketepatan makna norma dan subjek hukum                    [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K3. Kecukupan dasar hukum dan argumentasi                     [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K4. Ketepatan label/arah relasi untuk RKG                     [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+**Jenis hubungan paling tepat (pilih satu):**
+
+[ ] Konteks konstitusional      [ ] Penjabaran normatif      [ ] Hubungan umum–khusus
+
+[ ] Hubungan tematik saja       [ ] Tidak ada hubungan cukup kuat          [ ] Lainnya: ..................
+
+**Keputusan:**     [ ] Terima     [ ] Revisi   [ ] Tolak   [ ] Bukti belum memadai
+Alasan hukum, pasal/ayat pendukung atau pengoreksi:
+
+
+
+
+Saran label relasi/arah panah/perantara normatif (bila ada):
+
+
+
+
+Hal yang boleh dipertimbangkan: Apakah penyediaan fasilitas dan penyelenggaraan upaya kesehatan perlu
+direpresentasikan sebagai dua norma berbeda? Jenis relasi apa yang tepat tanpa menyamakan konsep fasilitas
+dengan seluruh kegiatan kesehatan?
+
+
+
+
+                                                                           Validasi Pakar RKG–SPM Kesehatan | 5
+<PARSED TEXT FOR PAGE: 6 / 8>
+Relasi 5 dari 6 · K19
+Pengelolaan kesehatan secara umum dan kewajiban menerapkan SPM
+
+ Norma asal              N11a — Perpres 13/2026, Pasal 21 ayat (1)
+
+ Norma tujuan            N18 — Permenkes 6/2024, Pasal 2 ayat (1)
+
+ Relasi kandidat         UMUM_KE_KHUSUS_SPM
+
+ Tingkat bukti           E3 — interpretatif; belum divalidasi pakar
+
+
+Ringkasan sumber (parafrasa)
+Perpres 13 Pasal 21(1) memuat pengelolaan kesehatan hingga desa; Permenkes 6 Pasal 2(1)
+memuat kewajiban SPM bagi provinsi/kabupaten-kota.
+Batas interpretasi: Penyebutan desa dalam pengelolaan kesehatan tidak otomatis memperluas
+subjek kewajiban SPM.
+
+Pertanyaan pokok
+Apakah tanggung jawab pengelolaan kesehatan pada sejumlah tingkat pemerintahan dapat
+dihubungkan secara normatif dengan kewajiban penerapan SPM Kesehatan oleh pemerintah
+provinsi dan kabupaten/kota?
+
+Penilaian
+
+ K1. Relevansi hubungan menurut hukum                           [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K2. Ketepatan makna norma dan subjek hukum                     [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K3. Kecukupan dasar hukum dan argumentasi                      [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K4. Ketepatan label/arah relasi untuk RKG                      [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+**Jenis hubungan paling tepat (pilih satu):**
+
+[ ] Konteks konstitusional       [ ] Penjabaran normatif      [ ] Hubungan umum–khusus
+
+[ ] Hubungan tematik saja        [ ] Tidak ada hubungan cukup kuat          [ ] Lainnya: ..................
+
+**Keputusan:**      [ ] Terima     [ ] Revisi   [ ] Tolak   [ ] Bukti belum memadai
+Alasan hukum, pasal/ayat pendukung atau pengoreksi:
+
+
+
+
+Saran label relasi/arah panah/perantara normatif (bila ada):
+
+
+
+
+Hal yang boleh dipertimbangkan: Apakah hubungan lebih tepat disebut konteks terkait daripada hubungan
+umum-khusus? Bagaimana menghindari kesimpulan bahwa desa mempunyai kewajiban menerapkan SPM hanya
+dari Perpres tersebut?
+
+                                                                            Validasi Pakar RKG–SPM Kesehatan | 6
+<PARSED TEXT FOR PAGE: 7 / 8>
+Relasi 6 dari 6 · X03
+Fungsi pengelolaan program kesehatan daerah dan penerapan SPM
+
+ Norma asal             N10 — UU 17/2023, Pasal 19 ayat (3) huruf b
+
+ Norma tujuan           N18 — Permenkes 6/2024, Pasal 2 ayat (1)
+
+ Relasi kandidat        UMUM_KE_KHUSUS_SPM
+
+ Tingkat bukti          E3 — interpretatif; belum divalidasi pakar
+
+
+Ringkasan sumber (parafrasa)
+UU 17 Pasal 19(3)b memuat fungsi program daerah; Permenkes 6 Pasal 2(1) kewajiban SPM.
+Batas interpretasi: Tidak boleh dinamakan delegasi langsung; tautan ini penting bagi lintasan hak
+kesehatan menuju SPM.
+
+Pertanyaan pokok
+Dapatkah kewenangan perencanaan, pengelolaan, pemantauan, supervisi, dan evaluasi program
+kesehatan daerah menjadi penghubung yang relevan dengan kewajiban penerapan SPM
+Kesehatan?
+
+Penilaian
+
+ K1. Relevansi hubungan menurut hukum                          [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K2. Ketepatan makna norma dan subjek hukum                    [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K3. Kecukupan dasar hukum dan argumentasi                     [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+ K4. Ketepatan label/arah relasi untuk RKG                     [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] TD
+
+**Jenis hubungan paling tepat (pilih satu):**
+
+[ ] Konteks konstitusional      [ ] Penjabaran normatif      [ ] Hubungan umum–khusus
+
+[ ] Hubungan tematik saja       [ ] Tidak ada hubungan cukup kuat          [ ] Lainnya: ..................
+
+**Keputusan:**     [ ] Terima     [ ] Revisi   [ ] Tolak   [ ] Bukti belum memadai
+Alasan hukum, pasal/ayat pendukung atau pengoreksi:
+
+
+
+
+Saran label relasi/arah panah/perantara normatif (bila ada):
+
+
+
+
+Hal yang boleh dipertimbangkan: Apakah kewajiban penerapan SPM merupakan implementasi khusus fungsi
+program kesehatan daerah atau hanya bagian yang berkaitan? Ketentuan PP 2/2018 atau UU 23/2014 apa yang
+sebaiknya dimasukkan sebagai perantara?
+
+
+
+                                                                           Validasi Pakar RKG–SPM Kesehatan | 7
+<PARSED TEXT FOR PAGE: 8 / 8>
+Penilaian tiga lintasan RKG
+Setelah menilai relasi secara terpisah, tinjaulah argumentasi yang terbentuk oleh lintasan berikut.
+Panah menggambarkan jalur komputasional kandidat, bukan dasar hukum langsung.
+
+L1 — Hak atas kesehatan ke SPM ibu hamil
+N04 → S07 → N10 → N18 → N20 → L03
+
+Status jalur: [ ] Argumentasi memadai [ ] Perlu relasi perantara [ ] Tidak memadai [ ] TD
+Norma perantara yang hilang / alasan penilaian:
+
+
+
+
+L2 — Hak atas kesehatan ke SPM KLB provinsi
+N04 → S07 → N10 → N18 → N19 → L02
+
+Status jalur: [ ] Argumentasi memadai [ ] Perlu relasi perantara [ ] Tidak memadai [ ] TD
+Norma perantara yang hilang / alasan penilaian:
+
+
+
+
+L3 — Otonomi daerah ke SPM ibu hamil
+N01 → N06 → N07a → N07b → N13 → N18 → N20 → L03
+
+Status jalur: [ ] Argumentasi memadai [ ] Perlu relasi perantara [ ] Tidak memadai [ ] TD
+Norma perantara yang hilang / alasan penilaian:
+
+
+
+
+Catatan umum dan pengesahan
+Masukan terhadap batas interpretasi, potensi bias, dan implikasi pengkajian SPM:
+
+
+
+
+Tanda tangan atau paraf (opsional): ..................................   Tanggal: ........................
+
+
+
+
+                                                                                     Validasi Pakar RKG–SPM Kesehatan | 8

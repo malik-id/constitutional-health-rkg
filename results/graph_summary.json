@@ -1,0 +1,30 @@
+{
+  "graph": "data/graph/rkg_spm_v2.graphml",
+  "source_snapshot": "2026-11-19",
+  "node_count": 131,
+  "edge_count": 213,
+  "directed": true,
+  "node_types": {
+    "Regulation": 7,
+    "Actor": 16,
+    "SPMLevel": 2,
+    "HealthService": 14,
+    "Norm": 41,
+    "Provision": 51
+  },
+  "all_edges_by_evidence_level": {
+    "E1": 191,
+    "E3": 6,
+    "E2": 16
+  },
+  "candidate_relations_by_evidence_level": {
+    "E3": 6,
+    "E2": 16,
+    "E1": 7
+  },
+  "notes": [
+    "E1 pada edge struktural tidak identik dengan 7 kandidat relasi E1.",
+    "GraphML dipulihkan dari empat bagian teks terindeks; validitas XML dan jumlah node/edge telah diverifikasi.",
+    "Belum ada validasi pakar dan pengujian Neo4j."
+  ]
+}

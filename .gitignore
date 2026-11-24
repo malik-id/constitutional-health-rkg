@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local exports and scratch
+exports/
+.tmp/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*service-account*.json
+
+# Protect fieldwork / respondent data - store outside repo
+private/
+respondents/
+responses_raw/
+reviewer_identifiers/

@@ -1,0 +1,15 @@
+index,ID_layanan,Jenis_pelayanan,Level_SPM,Dasar_pasalyat
+0,L01,Krisis kesehatan bencana dan/atau potensi bencana daerah provinsi,PROVINSI,R06 Pasal 2 ayat (3) huruf a
+1,L02,Kondisi kejadian luar biasa daerah provinsi,PROVINSI,R06 Pasal 2 ayat (3) huruf b
+2,L03,Pelayanan kesehatan ibu hamil,KABUPATEN_KOTA,R06 Pasal 2 ayat (4) huruf a
+3,L04,Pelayanan kesehatan ibu bersalin,KABUPATEN_KOTA,R06 Pasal 2 ayat (4) huruf b
+4,L05,Pelayanan kesehatan bayi baru lahir,KABUPATEN_KOTA,R06 Pasal 2 ayat (4) huruf c
+5,L06,Pelayanan kesehatan balita,KABUPATEN_KOTA,R06 Pasal 2 ayat (4) huruf d
+6,L07,Pelayanan kesehatan usia pendidikan dasar,KABUPATEN_KOTA,R06 Pasal 2 ayat (4) huruf e
+7,L08,Pelayanan kesehatan usia produktif,KABUPATEN_KOTA,R06 Pasal 2 ayat (4) huruf f
+8,L09,Pelayanan kesehatan usia lanjut,KABUPATEN_KOTA,R06 Pasal 2 ayat (4) huruf g
+9,L10,Pelayanan kesehatan penderita hipertensi,KABUPATEN_KOTA,R06 Pasal 2 ayat (4) huruf h
+10,L11,Pelayanan kesehatan penderita diabetes melitus,KABUPATEN_KOTA,R06 Pasal 2 ayat (4) huruf i
+11,L12,Pelayanan kesehatan orang dengan gangguan jiwa berat,KABUPATEN_KOTA,R06 Pasal 2 ayat (4) huruf j
+12,L13,Pelayanan kesehatan orang terduga tuberkulosis,KABUPATEN_KOTA,R06 Pasal 2 ayat (4) huruf k
+13,L14,Pelayanan kesehatan orang berisiko terinfeksi HIV,KABUPATEN_KOTA,R06 Pasal 2 ayat (4) huruf l

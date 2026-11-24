@@ -1,0 +1,68 @@
+{
+  "prepared_date": "2026-11-24",
+  "research_title": "Analisis Hubungan Norma Konstitusional dan Pembagian Kewenangan dalam Standar Pelayanan Minimal Kesehatan Berbasis Regulatory Knowledge Graph",
+  "metadata_note": "Sumber arsip dibuat pada 19 November 2026 dan dipulihkan dari tampilan teks Library. Berkas XLSX/DOCX sumber tidak dapat diakses sebagai biner dari sesi ini; CSV dan TXT yang disertakan adalah hasil ekstraksi, bukan salinan identik.",
+  "original_library_artifacts": [
+    {
+      "filename": "Anotasi_RKG_SPM_Kesehatan_2026.xlsx",
+      "archive": "v1",
+      "included_as": "data/annotations/v1/*.csv"
+    },
+    {
+      "filename": "Anotasi_dan_Audit_RKG_SPM_Kesehatan_V2.xlsx",
+      "archive": "v2",
+      "included_as": "data/annotations/v2/*.csv"
+    },
+    {
+      "filename": "Anotasi_Audit_dan_Temuan_RKG_SPM_V3.xlsx",
+      "archive": "v3",
+      "included_as": "data/annotations/v3/*.csv"
+    },
+    {
+      "filename": "rkg_spm_v2.graphml",
+      "included_as": "data/graph/rkg_spm_v2.graphml",
+      "note": "XML dipulihkan dari empat bagian teks; integritas struktur 131 nodes, 213 edges teruji, kesetaraan hash dengan file asli belum dapat diverifikasi"
+    },
+    {
+      "filename": "seed_rkg_spm.cypher",
+      "included_as": "archive/v1/seed_rkg_spm.cypher",
+      "note": "versi awal; tidak digunakan untuk basis data V2"
+    },
+    {
+      "filename": "Laporan_Audit_dan_Uji_Graf_V2.md",
+      "included_as": "reports/Laporan_Audit_dan_Uji_Graf_V2.md"
+    },
+    {
+      "filename": "Laporan_Audit_Normatif_RKG_SPM_V3.md",
+      "included_as": "reports/Laporan_Audit_Normatif_RKG_SPM_V3.md"
+    },
+    {
+      "filename": "Kuesioner_Validasi_Pakar_Relasi_E3.docx",
+      "included_as": "validation/Kuesioner_Validasi_Pakar_Relasi_E3_extracted.txt",
+      "note": "teks hasil ekstraksi, bukan format asli DOCX"
+    },
+    {
+      "filename": "Buat_Google_Forms_Validasi_E3.txt",
+      "included_as": "validation/google_apps_script/Code.gs"
+    },
+    {
+      "filename": "Paket_Audit_Normatif_RKG_SPM_V3.zip",
+      "included": false,
+      "reason": "berkas ZIP asli belum dapat dimaterialisasi sebagai byte"
+    },
+    {
+      "filename": "Paket_Validasi_RKG_SPM_V2.zip",
+      "included": false,
+      "reason": "berkas ZIP asli belum dapat dimaterialisasi sebagai byte"
+    },
+    {
+      "filename": "seed_neo4j_v2.cypher",
+      "included": false,
+      "reason": "hanya di dalam paket V2, tidak tersedia sebagai teks file mandiri"
+    }
+  ],
+  "conference_references": [
+    "references/SISTEMATIKA_CALL_FOR_PAPER_KONAS_2026.pdf",
+    "references/TOR_CALL_FOR_PAPERS_KONAS_MPR_2026.pdf"
+  ]
+}

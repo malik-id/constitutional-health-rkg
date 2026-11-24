@@ -1,0 +1,20 @@
+index,RKG - ANOTASI NORMA SPM KESEHATAN,Unnamed: 1,Unnamed: 2
+0,,,
+1,Dataset awal berbasis korpus regulasi resmi | Snapshot 19 November 2026 | Bukan opini hukum final,,
+2,,,
+3,Kode norma dari rancangan awal,,23.0
+4,Proposisi atomik dari 23 kode,,29.0
+5,Norma pendukung,,12.0
+6,Relasi antarnorma kandidat,,24.0
+7,Rujukan antardokumen eksplisit,,8.0
+8,Regulasi dalam korpus,,7.0
+9,Jenis layanan SPM,,14.0
+10,,,
+11,,,
+12,"- Cara membaca: lihat Anotasi_23 untuk 23 unit asal, Norma_Atomik untuk unit yang siap dijadikan node, serta Relasi_Norma untuk penghubung E1/E2/E3.",,
+13,"- Kolom Ringkasan sumber adalah PARAFRASA dari pasal, bukan transkrip lengkap. Gunakan locator + URL untuk memeriksa bunyi resmi.",,
+14,- E1 = tautan/rujukan eksplisit; E2 = penyelarasan antarklausul berdasar dua sumber; E3 = interpretasi yang butuh penilaian ahli hukum.,,
+15,- Status TEKS_DIVERIFIKASI menandakan bunyi pasal telah diperiksa; BUKAN bahwa interpretasi normatif sudah diverifikasi ahli.,,
+16,"- PERINGATAN: Perpres 13/2026 memuat Pemerintah Desa dalam pengelolaan kesehatan, tetapi Permenkes 6/2024 mewajibkan SPM pada provinsi dan kabupaten/kota.",,
+17,- Perlu meninjau dampak amandemen dan status keberlakuan atas setiap regulasi sebelum publikasi; jangan membuat klaim konflik norma hanya dari kesamaan semantik.,,
+18,- Bagian sumber hukum primer makalah: gunakan kutipan Pasal/ayat dan catatan kaki Chicago sesuai panduan KONAS MPR.,,

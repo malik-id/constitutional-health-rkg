@@ -1,0 +1,18 @@
+index,AUDIT DAN GRAF REGULASI - VERSI 2,Unnamed: 1,Unnamed: 2
+0,,,
+1,,,
+2,Tanggal snapshot,,19 November 2026
+3,Norma klausul dari V1,,41
+4,Relasi kandidat V2,,29
+5,Node dibangun lokal,,131
+6,Edge dibangun lokal,,213
+7,Validasi pakar hukum,,BELUM DILAKUKAN
+8,Uji akurasi NLP,,BELUM DILAKUKAN
+9,,,
+10,PENTING,,
+11,"- Lihat Audit_V2 untuk perubahan aktor dan status sumber. 41 unit adalah unit klausul/konsep, bukan seluruhnya proposisi minimal.",,
+12,"- Lihat Relasi_Uji_V2 untuk E1, E2 dan E3. E2/E3 adalah hubungan kandidat, BUKAN penetapan konflik hukum.",,
+13,"- Lihat Lintasan_Uji_V2 untuk 3 lintasan demonstrasi; hasil ini uji struktur graf, bukan validasi interpretasi hukum.",,
+14,- Model relasi klasifikasi SPM dipisahkan dari APPLIES_TO; peraturan tidak menganggap semua klasifikasi sebagai kewajiban aktor.,,
+15,"- Data sumber resmi diperiksa dengan naskah primer; versi original tersimpan sebagai sheet historis, bukan dataset aktif.",,
+16,"- Untuk menguji di Neo4j, jalankan file seed_neo4j_v2.cypher; graf yang dihitung di sini adalah hasil build lokal NetworkX.",,

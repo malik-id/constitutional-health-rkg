@@ -1,0 +1,30 @@
+index,ID_relasi,ID_asal,ID_tujuan,Jenis_hubungan,Level_bukti,Referensi_pasalyat,Alasan_analitis,Status_validasi
+0,K01,N01,N06,KERANGKA_OTONOMI,E3,UUD Pasal 18(2); UU 23 Pasal 12(1)b,Kesehatan ditempatkan dalam kerangka otonomi dan urusan pelayanan dasar.,TINJAU_AHLI
+1,K02,N02,N06,KONTEKS_PEMBAGIAN_KEWENANGAN,E3,UUD Pasal 18A(1); UU 23 Pasal 12(1)b,"Pasal konstitusi mengatur hubungan wewenang secara umum, UU sektor pemerintahan menetapkan kesehatan sebagai urusan wajib.",TINJAU_AHLI
+2,K03,N04,S07,HAK_DAN_TANGGUNG_JAWAB,E3,UUD Pasal 28H(1); UU 17 Pasal 19(1),Hak konstitusional atas kesehatan memiliki keterkaitan konseptual dengan tanggung jawab penyelenggaraan upaya kesehatan.,TINJAU_AHLI
+3,K04,N05,S07,PRINSIP_TANGGUNG_JAWAB_NEGARA,E3,UUD Pasal 34(3); UU 17 Pasal 19(1),Penyediaan fasilitas yang layak dan tanggung jawab penyelenggaraan upaya kesehatan berkaitan secara normatif.,TINJAU_AHLI
+4,K05,N06,N07a,URUSAN_MENJADI_PRIORITAS,E2,UU 23 Pasal 12(1)b dan Pasal 18(1),Urusan kesehatan termasuk jenis urusan yang diprioritaskan oleh penyelenggara daerah.,PERLU_KONFIRMASI_KONTEKS
+5,K06,N07b,N13,KERANGKA_STANDAR_SPM,E2,UU 23 Pasal 18(2); PP 2 Pasal 2,Penerapan SPM sebagai pedoman pelayanan dasar memiliki prinsip kesesuaian kewenangan dan lainnya.,PERLU_KONFIRMASI_KONTEKS
+6,K07,N07b,S02,DELEGASI_KETENTUAN_LANJUT,E2,UU 23 Pasal 18(3) merujuk pengaturan lebih lanjut tentang SPM,"Pasal 18 ayat (3) mendelegasikan pengaturan lebih lanjut ke peraturan pemerintah, berkaitan dengan ketentuan ayat (2).",PERLU_KONFIRMASI_KONTEKS
+7,K08,N08b,N09,NSPK_DAN_STANDAR_PUSAT,E2,UU 17 Pasal 15; Pasal 19(2)e,Daerah mengikuti NSPK yang ditetapkan pusat; pusat juga menetapkan standar pelayanan kesehatan (jenis standar harus dibedakan).,PERLU_KONFIRMASI_KONTEKS
+8,K09,N14,N19,KESAMAAN_JENIS_LAYANAN,E2,PP 2 Pasal 6(2)b; Permenkes 6 Pasal 2(3)b,Keduanya menggolongkan KLB tingkat provinsi sebagai jenis SPM Kesehatan provinsi.,PERLU_KONFIRMASI_KONTEKS
+9,K10,N15,N20,KESAMAAN_JENIS_LAYANAN,E2,PP 2 Pasal 6(3)a; Permenkes 6 Pasal 2(4)a,Keduanya menggolongkan layanan ibu hamil sebagai SPM Kesehatan kabupaten/kota.,PERLU_KONFIRMASI_KONTEKS
+10,K11,N16,N17a,TAHAPAN_PENDATAAN,E1,Permendagri 59 Pasal 5(1) merujuk Pasal 4 huruf a,Pasal 5 menyatakan pengumpulan data sebagaimana dimaksud pada Pasal 4 huruf a.,RUJUKAN_TEKSTUAL_TERVERIFIKASI
+11,K12,N16,N17b,TAHAPAN_PENDATAAN,E1,Permendagri 59 Pasal 5(1) merujuk Pasal 4 huruf a,"Data sarana, barang, dan jasa termasuk pelaksanaan tahap pengumpulan data.",RUJUKAN_TEKSTUAL_TERVERIFIKASI
+12,K13,N17a,S08,DATA_DAN_INTEGRASI_SIPD,E1,Permendagri 59 Pasal 5(4) merujuk Pasal 5(1),Pasal 5(4) mengharuskan hasil pengumpulan data diintegrasikan dengan SIPD.,RUJUKAN_TEKSTUAL_TERVERIFIKASI
+13,K14,N18,N21,TERAPKAN_DAN_PENUHI_MUTU,E2,Permenkes 6 Pasal 2(1) dan Pasal 3(1),Dua kewajiban yang berbeda tetapi saling melengkapi pada pemerintah daerah.,PERLU_KONFIRMASI_KONTEKS
+14,K15,N18,N19,KEWAJIBAN_DAN_JENIS_SPM_PROV,E2,Permenkes 6 Pasal 2(1) dan Pasal 2(3)b,Kewajiban menerapkan SPM dikaitkan dengan klasifikasi jenis pelayanan provinsi.,PERLU_KONFIRMASI_KONTEKS
+15,K16,N18,N20,KEWAJIBAN_DAN_JENIS_SPM_KABKOTA,E2,Permenkes 6 Pasal 2(1) dan Pasal 2(4)a,Kewajiban menerapkan SPM dikaitkan dengan klasifikasi pelayanan ibu hamil kabupaten/kota.,PERLU_KONFIRMASI_KONTEKS
+16,K17,N23a,N23b,MEKANISME_PELAPORAN,E1,Permenkes 6 Pasal 5(2) merujuk Pasal 5(1),Ayat 2 secara eksplisit merujuk pelaporan ayat 1.,RUJUKAN_TEKSTUAL_TERVERIFIKASI
+17,K18,N11a,N12,RUJUKAN_TANGGUNG_JAWAB,E1,Perpres 13 Pasal 22(1) merujuk Pasal 21,Pasal 22 secara eksplisit mengacu pada pelaksanaan tanggung jawab yang disebut Pasal 21.,RUJUKAN_TEKSTUAL_TERVERIFIKASI
+18,K19,N11a,N18,UMUM_KE_KHUSUS_SPM,E3,Perpres 13 Pasal 21(1); Permenkes 6 Pasal 2(1),Pengelolaan kesehatan empat tingkat tidak boleh dianggap identik dengan penerapan SPM dua tingkat pemerintah daerah.,TINJAU_AHLI
+19,K20,S03,N21,DASAR_STANDAR_TEKNIS,E2,PP 2 Pasal 6(6); Permenkes 6 Pasal 3(1),Delegasi standar teknis terkait pemenuhan mutu dalam Permenkes.,PERLU_KONFIRMASI_KONTEKS
+20,K21,S04,N16,DASAR_TAHAPAN_PENERAPAN,E2,PP 2 Pasal 16; Permendagri 59 Pasal 4,Delegasi penerapan SPM melandasi aturan tahapan Permendagri.,PERLU_KONFIRMASI_KONTEKS
+21,K22,N12,S06,MUTU_DAN_SUMBER_DAYA,E2,Perpres 13 Pasal 22(1) dan Pasal 21(4),Pemerataan mutu pelayanan terkait tanggung jawab penyediaan sumber daya daerah.,PERLU_KONFIRMASI_KONTEKS
+22,K23,N01,S01,KONTEKS_OTONOMI_KONSTITUSI,E2,UUD Pasal 18(2) dan Pasal 18(5),Kewenangan mengurus urusan daerah terkait prinsip otonomi seluas-luasnya dengan pengecualian.,PERLU_KONFIRMASI_KONTEKS
+23,K24,N15,N18,LANDASAN_JENIS_DAN_KEWAJIBAN,E2,PP 2 Pasal 6(3)a; Permenkes 6 Pasal 2(1),Jenis SPM kabupaten/kota dipadukan dengan kewajiban implementasi daerah.,PERLU_KONFIRMASI_KONTEKS
+24,X01,S07,N10,RUJUKAN_TANGGUNG_JAWAB_PROGRAM,E1,UU 17/2023 Pasal 19 ayat (3) huruf b dan ayat (1),Ayat (3) secara eksplisit mengacu pada tanggung jawab sebagaimana ayat (1).,RUJUKAN_TEKSTUAL_TERVERIFIKASI
+25,X02,S07,N09,RUJUKAN_TANGGUNG_JAWAB_STANDAR,E1,UU 17/2023 Pasal 19 ayat (2) huruf e dan ayat (1),Ayat (2) secara eksplisit mengacu pada tanggung jawab sebagaimana ayat (1).,RUJUKAN_TEKSTUAL_TERVERIFIKASI
+26,X03,N10,N18,UMUM_KE_KHUSUS_SPM,E3,UU 17/2023 Pasal 19 ayat (3)b; Permenkes 6/2024 Pasal 2 ayat (1),Hubungan fungsi pengelolaan program kesehatan daerah dengan kewajiban menerapkan SPM merupakan interpretasi lintas regulasi.,TINJAU_AHLI
+27,X04,N07a,N07b,PRIORITAS_DAN_PEDOMAN_SPM,E2,UU 23/2014 Pasal 18 ayat (1)-(2),Dua ayat berdekatan menunjukkan prioritas pelayanan dasar dan standar yang dipakai.,PERLU_KONFIRMASI_KONTEKS
+28,X05,N13,N18,PRINSIP_DAN_KEWAJIBAN_SPM_KESEHATAN,E2,PP 2/2018 Pasal 2; Permenkes 6/2024 Pasal 2 ayat (1),Prinsip penerapan umum dibandingkan kewajiban penerapan SPM bidang kesehatan.,PERLU_KONFIRMASI_KONTEKS

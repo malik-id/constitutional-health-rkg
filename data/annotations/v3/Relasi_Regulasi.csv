@@ -1,0 +1,9 @@
+index,ID,Regulasi_asal,Regulasi_tujuan,Tipe_rujukan,Sumber_rujukan,Level_bukti
+0,D01,R02,R01,MENGINGAT,UUD Pasal 18 dan 18A tercantum dalam dasar hukum UU 23/2014,E1
+1,D02,R03,R01,MENGINGAT,UUD Pasal 28H(1) dan Pasal 34(3) tercantum dalam dasar hukum UU 17/2023,E1
+2,D03,R04,R02,DASAR_PENDELEGASIAN,"PP 2/2018 dibentuk untuk melaksanakan UU 23/2014 Pasal 18(3), dalam Menimbang",E1
+3,D04,R05,R04,DASAR_PENDELEGASIAN,Permendagri 59/2021 merujuk PP 2/2018 Pasal 16 dalam Menimbang,E1
+4,D05,R06,R04,DASAR_PENDELEGASIAN,Permenkes 6/2024 menyebut PP 2/2018 Pasal 6(6) dalam Menimbang,E1
+5,D06,R07,R03,DASAR_PENDELEGASIAN,"Perpres 13/2026 dibuat untuk melaksanakan UU 17/2023 Pasal 21(3) dan Pasal 416, dalam Menimbang",E1
+6,D07,R06,R03,MENGINGAT,UU 17/2023 tercantum dalam Mengingat Permenkes 6/2024,E1
+7,D08,R06,R02,MENGINGAT,UU 23/2014 tercantum dalam Mengingat Permenkes 6/2024,E1

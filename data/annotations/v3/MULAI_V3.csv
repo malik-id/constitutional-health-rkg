@@ -1,0 +1,14 @@
+index,AUDIT RKG SPM KESEHATAN V3,Validasi tekstual dan matriks temuan normatif — 19 November 2026
+0,Tujuan,Audit relasi E1/E2/E3 dan menyiapkan rekomendasi untuk makalah KONAS MPR RI 2026
+1,Judul,Analisis Hubungan Norma Konstitusional dan Pembagian Kewenangan dalam Standar Pelayanan Minimal Kesehatan Berbasis Regulatory Knowledge Graph
+2,Dataset dasar,"V2; 41 unit norma, 29 relasi antarnorma, 131 node dan 213 edge pada graf NetworkX"
+3,Audit relasi,29 relasi (E1=7; E2=16; E3=6)
+4,Audit tidak mengubah label,E2 dan E3 tetap hipotesis hubungan hingga ditinjau pakar hukum; klasifikasi E1 hanya rujukan dokumenter/tekstual.
+5,Status,"Belum ada validasi pakar, benchmark independen, atau uji sistem Neo4j."
+6,Lembar utama 1,"Audit_29_Relasi: dasar, batas penafsiran, URL dokumen dan langkah perbaikan"
+7,Lembar utama 2,Landasan_Formal_V3: tiga hubungan delegasi pada level peraturan
+8,Lembar utama 3,Matriks_Temuan_V3: enam temuan normatif sementara
+9,Lembar utama 4,Rekomendasi_PPHN: empat rekomendasi operasional bersifat usulan
+10,Lembar utama 5,Ablasi_V3: uji jalur tingkat bukti pada graf NetworkX dari V2
+11,Lembar utama 6,Form_Review_Pakar: template review 22 relasi E2/E3
+12,Dukungan sumber,URL resmi Indonesia dilampirkan dalam lembar audit; teks hukum dijelaskan berupa parafrasa.

@@ -1,0 +1,15 @@
+index,Kategori,Nilai,Definisi
+0,Level_bukti,E1,Hubungan rujukan/keterkaitan tertulis secara eksplisit dalam teks sumber.
+1,Level_bukti,E2,Hubungan disimpulkan melalui dua ketentuan eksplisit; tetap perlu pemeriksaan argumentasi.
+2,Level_bukti,E3,Hubungan interpretatif/penalaran; tidak boleh dianggap fakta hukum tanpa validasi ahli.
+3,Modalitas,WAJIB,Ketentuan mewajibkan suatu tindakan.
+4,Modalitas,DAPAT,Ketentuan memberi kebolehan/fakultas.
+5,Jenis_norma,KLASIFIKASI_LAYANAN,Ketentuan mendaftar jenis pelayanan; bukan berdiri sendiri sebagai kewajiban.
+6,Jenis_norma,TANGGUNG_JAWAB_NEGARA,Tanggung jawab pada entitas negara; tidak langsung menunjuk pemda tertentu.
+7,Status,TEKS_DIVERIFIKASI,Lokator dan makna umum telah dicocokkan dengan sumber resmi.
+8,Status,TINJAU_AHLI,Hubungan konseptual/interpretasi harus dikonfirmasi ahli hukum.
+9,Status,PERIKSA_DOKUMEN,Hubungan perlu pengecekan penafsiran dan cakupan di sumber asal/tujuan.
+10,Aturan,Aktor eksplisit,Tidak mengisi aktor kewajiban yang tidak disebut secara eksplisit.
+11,Aturan,Versi regulasi,Status berlakunya perlu dinilai pada tanggal acuan; UU 23/2014 mengalami perubahan.
+12,Aturan,Verbatim,Cuplikan pendek saja; kolom parafrasa bukan salinan lengkap teks peraturan.
+13,Aturan,Klaim penelitian,Jumlah node/edge dan akurasi pada workbook adalah RENCANA DATA; bukan hasil evaluasi sistem.

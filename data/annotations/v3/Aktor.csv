@@ -1,0 +1,17 @@
+index,ID_aktor,Nama_aktor,Tipe_aktor,Catatan_batasan
+0,A_NONE,Aktor tidak dinyatakan dalam unit norma,NON_ACTOR,Jangan menciptakan atribusi kewajiban
+1,A_NEGARA,Negara,KONSTITUSIONAL,Entitas negara bukan sinonim Pemerintah Daerah
+2,A_SETIAP_ORANG,Setiap orang,PEMEGANG_HAK,Hak konstitusi mencakup setiap orang
+3,A_WARGA,Warga negara,PEMEGANG_HAK,Definisi SPM menggunakan Warga Negara
+4,A_DAERAH_GOV,Pemerintahan daerah provinsi/kabupaten/kota,PEMERINTAHAN,Mencakup penyelenggaraan pemerintahan daerah; beda dari kepala daerah
+5,A_PUSAT,Pemerintah Pusat,PEMERINTAH,Aktor eksekutif tingkat nasional
+6,A_PEMDA_UMUM,Pemerintah Daerah (umum),PEMERINTAH,Jangan asumsikan satu jenis layanan atau satu level
+7,A_PROV,Pemerintah Daerah Provinsi,PEMERINTAH,Level provinsi
+8,A_KABKOTA,Pemerintah Daerah Kabupaten/Kota,PEMERINTAH,Level kabupaten/kota
+9,A_DESA,Pemerintah Desa,PEMERINTAH,Disebut Perpres 13/2026; tidak otomatis wajib SPM 6/2024
+10,A_PERANGKAT,Perangkat Daerah,UNIT_ORGANISASI,Perangkat daerah sebagai pelaksana teknis daerah
+11,A_GUBERNUR,Gubernur,PEJABAT,Jabatan kepala daerah provinsi; berperan juga wakil pusat pada konteks tertentu
+12,A_BUPATI_WALIKOTA,Bupati/Wali Kota,PEJABAT,Jabatan kepala daerah kabupaten/kota
+13,A_MENKES,Menteri Kesehatan,PEJABAT,Menteri teknis sektor kesehatan
+14,A_MENDAGRI,Menteri Dalam Negeri,PEJABAT,Menteri teknis penerapan SPM secara umum
+15,A_TENAGA,Tenaga Medis/Tenaga Kesehatan,PELAKSANA_LAYANAN,"Pelaksana teknis pelayanan, bukan pemerintah daerah"

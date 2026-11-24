@@ -1,0 +1,519 @@
+{
+  "source": "ChatGPT Library indexed text rendition, not original binary workbook",
+  "method": "CSV reader/writer round-trip by sheet; header index column is from indexed extraction",
+  "sheets": [
+    {
+      "version": "v1",
+      "sheet": "Ringkasan",
+      "rows_including_header": 20,
+      "column_count_distribution": {
+        "4": 20
+      },
+      "path": "data/annotations/v1/Ringkasan.csv"
+    },
+    {
+      "version": "v1",
+      "sheet": "Anotasi_23",
+      "rows_including_header": 24,
+      "column_count_distribution": {
+        "18": 24
+      },
+      "path": "data/annotations/v1/Anotasi_23.csv"
+    },
+    {
+      "version": "v1",
+      "sheet": "Norma_Atomik",
+      "rows_including_header": 42,
+      "column_count_distribution": {
+        "14": 42
+      },
+      "path": "data/annotations/v1/Norma_Atomik.csv"
+    },
+    {
+      "version": "v1",
+      "sheet": "Norma_Pendukung",
+      "rows_including_header": 13,
+      "column_count_distribution": {
+        "9": 13
+      },
+      "path": "data/annotations/v1/Norma_Pendukung.csv"
+    },
+    {
+      "version": "v1",
+      "sheet": "Relasi_Norma",
+      "rows_including_header": 25,
+      "column_count_distribution": {
+        "9": 25
+      },
+      "path": "data/annotations/v1/Relasi_Norma.csv"
+    },
+    {
+      "version": "v1",
+      "sheet": "Relasi_Regulasi",
+      "rows_including_header": 9,
+      "column_count_distribution": {
+        "7": 9
+      },
+      "path": "data/annotations/v1/Relasi_Regulasi.csv"
+    },
+    {
+      "version": "v1",
+      "sheet": "Aktor",
+      "rows_including_header": 17,
+      "column_count_distribution": {
+        "5": 17
+      },
+      "path": "data/annotations/v1/Aktor.csv"
+    },
+    {
+      "version": "v1",
+      "sheet": "Jenis_Layanan",
+      "rows_including_header": 15,
+      "column_count_distribution": {
+        "5": 15
+      },
+      "path": "data/annotations/v1/Jenis_Layanan.csv"
+    },
+    {
+      "version": "v1",
+      "sheet": "Korpus_Regulasi",
+      "rows_including_header": 8,
+      "column_count_distribution": {
+        "7": 8
+      },
+      "path": "data/annotations/v1/Korpus_Regulasi.csv"
+    },
+    {
+      "version": "v1",
+      "sheet": "Kamus_Anotasi",
+      "rows_including_header": 15,
+      "column_count_distribution": {
+        "4": 15
+      },
+      "path": "data/annotations/v1/Kamus_Anotasi.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "MULAI_V2",
+      "rows_including_header": 18,
+      "column_count_distribution": {
+        "4": 18
+      },
+      "path": "data/annotations/v2/MULAI_V2.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Ringkasan",
+      "rows_including_header": 20,
+      "column_count_distribution": {
+        "4": 20
+      },
+      "path": "data/annotations/v2/Ringkasan.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Anotasi_23",
+      "rows_including_header": 24,
+      "column_count_distribution": {
+        "18": 24
+      },
+      "path": "data/annotations/v2/Anotasi_23.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Norma_Atomik",
+      "rows_including_header": 42,
+      "column_count_distribution": {
+        "14": 42
+      },
+      "path": "data/annotations/v2/Norma_Atomik.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Norma_Pendukung",
+      "rows_including_header": 13,
+      "column_count_distribution": {
+        "9": 13
+      },
+      "path": "data/annotations/v2/Norma_Pendukung.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Relasi_Norma",
+      "rows_including_header": 25,
+      "column_count_distribution": {
+        "9": 25
+      },
+      "path": "data/annotations/v2/Relasi_Norma.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Relasi_Regulasi",
+      "rows_including_header": 9,
+      "column_count_distribution": {
+        "7": 9
+      },
+      "path": "data/annotations/v2/Relasi_Regulasi.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Aktor",
+      "rows_including_header": 17,
+      "column_count_distribution": {
+        "5": 17
+      },
+      "path": "data/annotations/v2/Aktor.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Jenis_Layanan",
+      "rows_including_header": 15,
+      "column_count_distribution": {
+        "5": 15
+      },
+      "path": "data/annotations/v2/Jenis_Layanan.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Korpus_Regulasi",
+      "rows_including_header": 8,
+      "column_count_distribution": {
+        "7": 8
+      },
+      "path": "data/annotations/v2/Korpus_Regulasi.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Kamus_Anotasi",
+      "rows_including_header": 15,
+      "column_count_distribution": {
+        "4": 15
+      },
+      "path": "data/annotations/v2/Kamus_Anotasi.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Audit_V2",
+      "rows_including_header": 42,
+      "column_count_distribution": {
+        "11": 42
+      },
+      "path": "data/annotations/v2/Audit_V2.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Norma_Aktif_V2",
+      "rows_including_header": 42,
+      "column_count_distribution": {
+        "18": 42
+      },
+      "path": "data/annotations/v2/Norma_Aktif_V2.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Relasi_Uji_V2",
+      "rows_including_header": 30,
+      "column_count_distribution": {
+        "9": 30
+      },
+      "path": "data/annotations/v2/Relasi_Uji_V2.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Lintasan_Uji_V2",
+      "rows_including_header": 18,
+      "column_count_distribution": {
+        "11": 18
+      },
+      "path": "data/annotations/v2/Lintasan_Uji_V2.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Korpus_Aktif_V2",
+      "rows_including_header": 8,
+      "column_count_distribution": {
+        "7": 8
+      },
+      "path": "data/annotations/v2/Korpus_Aktif_V2.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Relasi_Dokumen_V2",
+      "rows_including_header": 9,
+      "column_count_distribution": {
+        "7": 9
+      },
+      "path": "data/annotations/v2/Relasi_Dokumen_V2.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Node_Graf_V2",
+      "rows_including_header": 132,
+      "column_count_distribution": {
+        "7": 132
+      },
+      "path": "data/annotations/v2/Node_Graf_V2.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Edge_Graf_V2",
+      "rows_including_header": 214,
+      "column_count_distribution": {
+        "9": 214
+      },
+      "path": "data/annotations/v2/Edge_Graf_V2.csv"
+    },
+    {
+      "version": "v2",
+      "sheet": "Ablasi_Level_Bukti",
+      "rows_including_header": 10,
+      "column_count_distribution": {
+        "8": 10
+      },
+      "path": "data/annotations/v2/Ablasi_Level_Bukti.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "MULAI_V3",
+      "rows_including_header": 14,
+      "column_count_distribution": {
+        "3": 14
+      },
+      "path": "data/annotations/v3/MULAI_V3.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "MULAI_V2",
+      "rows_including_header": 18,
+      "column_count_distribution": {
+        "4": 18
+      },
+      "path": "data/annotations/v3/MULAI_V2.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Ringkasan",
+      "rows_including_header": 20,
+      "column_count_distribution": {
+        "4": 20
+      },
+      "path": "data/annotations/v3/Ringkasan.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Anotasi_23",
+      "rows_including_header": 24,
+      "column_count_distribution": {
+        "18": 24
+      },
+      "path": "data/annotations/v3/Anotasi_23.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Norma_Atomik",
+      "rows_including_header": 42,
+      "column_count_distribution": {
+        "14": 42
+      },
+      "path": "data/annotations/v3/Norma_Atomik.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Norma_Pendukung",
+      "rows_including_header": 13,
+      "column_count_distribution": {
+        "9": 13
+      },
+      "path": "data/annotations/v3/Norma_Pendukung.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Relasi_Norma",
+      "rows_including_header": 25,
+      "column_count_distribution": {
+        "9": 25
+      },
+      "path": "data/annotations/v3/Relasi_Norma.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Relasi_Regulasi",
+      "rows_including_header": 9,
+      "column_count_distribution": {
+        "7": 9
+      },
+      "path": "data/annotations/v3/Relasi_Regulasi.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Aktor",
+      "rows_including_header": 17,
+      "column_count_distribution": {
+        "5": 17
+      },
+      "path": "data/annotations/v3/Aktor.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Jenis_Layanan",
+      "rows_including_header": 15,
+      "column_count_distribution": {
+        "5": 15
+      },
+      "path": "data/annotations/v3/Jenis_Layanan.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Korpus_Regulasi",
+      "rows_including_header": 8,
+      "column_count_distribution": {
+        "7": 8
+      },
+      "path": "data/annotations/v3/Korpus_Regulasi.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Kamus_Anotasi",
+      "rows_including_header": 15,
+      "column_count_distribution": {
+        "4": 15
+      },
+      "path": "data/annotations/v3/Kamus_Anotasi.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Audit_V2",
+      "rows_including_header": 42,
+      "column_count_distribution": {
+        "11": 42
+      },
+      "path": "data/annotations/v3/Audit_V2.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Norma_Aktif_V2",
+      "rows_including_header": 42,
+      "column_count_distribution": {
+        "18": 42
+      },
+      "path": "data/annotations/v3/Norma_Aktif_V2.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Relasi_Uji_V2",
+      "rows_including_header": 30,
+      "column_count_distribution": {
+        "9": 30
+      },
+      "path": "data/annotations/v3/Relasi_Uji_V2.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Lintasan_Uji_V2",
+      "rows_including_header": 18,
+      "column_count_distribution": {
+        "11": 18
+      },
+      "path": "data/annotations/v3/Lintasan_Uji_V2.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Korpus_Aktif_V2",
+      "rows_including_header": 8,
+      "column_count_distribution": {
+        "7": 8
+      },
+      "path": "data/annotations/v3/Korpus_Aktif_V2.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Relasi_Dokumen_V2",
+      "rows_including_header": 9,
+      "column_count_distribution": {
+        "7": 9
+      },
+      "path": "data/annotations/v3/Relasi_Dokumen_V2.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Node_Graf_V2",
+      "rows_including_header": 132,
+      "column_count_distribution": {
+        "7": 132
+      },
+      "path": "data/annotations/v3/Node_Graf_V2.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Edge_Graf_V2",
+      "rows_including_header": 214,
+      "column_count_distribution": {
+        "9": 214
+      },
+      "path": "data/annotations/v3/Edge_Graf_V2.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Ablasi_Level_Bukti",
+      "rows_including_header": 10,
+      "column_count_distribution": {
+        "8": 10
+      },
+      "path": "data/annotations/v3/Ablasi_Level_Bukti.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Audit_29_Relasi",
+      "rows_including_header": 30,
+      "column_count_distribution": {
+        "17": 30
+      },
+      "path": "data/annotations/v3/Audit_29_Relasi.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Landasan_Formal_V3",
+      "rows_including_header": 4,
+      "column_count_distribution": {
+        "10": 4
+      },
+      "path": "data/annotations/v3/Landasan_Formal_V3.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Matriks_Temuan_V3",
+      "rows_including_header": 7,
+      "column_count_distribution": {
+        "9": 7
+      },
+      "path": "data/annotations/v3/Matriks_Temuan_V3.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Rekomendasi_PPHN",
+      "rows_including_header": 5,
+      "column_count_distribution": {
+        "8": 5
+      },
+      "path": "data/annotations/v3/Rekomendasi_PPHN.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Ablasi_V3",
+      "rows_including_header": 10,
+      "column_count_distribution": {
+        "9": 10
+      },
+      "path": "data/annotations/v3/Ablasi_V3.csv"
+    },
+    {
+      "version": "v3",
+      "sheet": "Form_Review_Pakar",
+      "rows_including_header": 23,
+      "column_count_distribution": {
+        "10": 23
+      },
+      "path": "data/annotations/v3/Form_Review_Pakar.csv"
+    }
+  ]
+}

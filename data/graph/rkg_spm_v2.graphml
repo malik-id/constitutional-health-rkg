@@ -1,0 +1,3356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d22" for="edge" attr.name="note" attr.type="string"/>
+<key id="d21" for="edge" attr.name="review_status" attr.type="string"/>
+<key id="d20" for="edge" attr.name="citation" attr.type="string"/>
+<key id="d19" for="edge" attr.name="evidence_level" attr.type="string"/>
+<key id="d18" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d17" for="edge" attr.name="target" attr.type="string"/>
+<key id="d16" for="edge" attr.name="source" attr.type="string"/>
+<key id="d15" for="edge" attr.name="id" attr.type="string"/>
+<key id="d14" for="node" attr.name="legal_review" attr.type="string"/>
+<key id="d13" for="node" attr.name="action" attr.type="string"/>
+<key id="d12" for="node" attr.name="norm_type" attr.type="string"/>
+<key id="d11" for="node" attr.name="modality" attr.type="string"/>
+<key id="d10" for="node" attr.name="locator" attr.type="string"/>
+<key id="d9" for="node" attr.name="regulation" attr.type="string"/>
+<key id="d8" for="node" attr.name="citation" attr.type="string"/>
+<key id="d7" for="node" attr.name="spm_level" attr.type="string"/>
+<key id="d6" for="node" attr.name="actor_type" attr.type="string"/>
+<key id="d5" for="node" attr.name="legal_status" attr.type="string"/>
+<key id="d4" for="node" attr.name="url" attr.type="string"/>
+<key id="d3" for="node" attr.name="year" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="kind" attr.type="string"/>
+<key id="d0" for="node" attr.name="id" attr.type="string"/>
+<graph edgedefault="directed"><node id="R01">
+  <data key="d0">R01</data>
+  <data key="d1">Regulation</data>
+  <data key="d2">UUD NRI Tahun 1945 dalam satu naskah</data>
+  <data key="d3">1945</data>
+  <data key="d4">https://jdih.dpr.go.id/index/uu1945</data>
+  <data key="d5">CHECKED_OFFICIAL_SITE</data>
+</node>
+<node id="R02">
+  <data key="d0">R02</data>
+  <data key="d1">Regulation</data>
+  <data key="d2">UU No. 23 Tahun 2014 tentang Pemerintahan Daerah</data>
+  <data key="d3">2014</data>
+  <data key="d4">https://jdih.pkp.go.id/produk-hukum/file/uu-nomor-23-tahun-2014.pdf</data>
+  <data key="d5">CHECKED_OFFICIAL_SITE</data>
+</node>
+<node id="R03">
+  <data key="d0">R03</data>
+  <data key="d1">Regulation</data>
+  <data key="d2">UU No. 17 Tahun 2023 tentang Kesehatan</data>
+  <data key="d3">2023</data>
+  <data key="d4">https://p2.kemkes.go.id/wp-content/uploads/2024/08/Undang-undang-Republik-Indonesia-Nomor-17-Tahun-2023-tentang-Kesehatan.pdf</data>
+  <data key="d5">CHECKED_OFFICIAL_SITE</data>
+</node>
+<node id="R04">
+  <data key="d0">R04</data>
+  <data key="d1">Regulation</data>
+  <data key="d2">PP No. 2 Tahun 2018 tentang Standar Pelayanan Minimal</data>
+  <data key="d3">2018</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+  <data key="d5">CHECKED_OFFICIAL_SITE</data>
+</node>
+<node id="R05">
+  <data key="d0">R05</data>
+  <data key="d1">Regulation</data>
+  <data key="d2">Permendagri No. 59 Tahun 2021 tentang Penerapan SPM</data>
+  <data key="d3">2021</data>
+  <data key="d4">https://peraturan.go.id/files/bn1419-2021.pdf</data>
+  <data key="d5">CHECKED_OFFICIAL_SITE</data>
+</node>
+<node id="R06">
+  <data key="d0">R06</data>
+  <data key="d1">Regulation</data>
+  <data key="d2">Permenkes No. 6 Tahun 2024 tentang Standar Teknis Pemenuhan SPM Kesehatan</data>
+  <data key="d3">2024</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+  <data key="d5">CHECKED_OFFICIAL_SITE</data>
+</node>
+<node id="R07">
+  <data key="d0">R07</data>
+  <data key="d1">Regulation</data>
+  <data key="d2">Perpres No. 13 Tahun 2026 tentang Pengelolaan Kesehatan</data>
+  <data key="d3">2026</data>
+  <data key="d4">https://jdih.kemkes.go.id/storage/documents/pdfs/2026perpres013.pdf</data>
+  <data key="d5">CHECKED_OFFICIAL_SITE</data>
+</node>
+<node id="A_NEGARA">
+  <data key="d0">A_NEGARA</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Negara</data>
+  <data key="d6">KONSTITUSIONAL</data>
+</node>
+<node id="A_SETIAP_ORANG">
+  <data key="d0">A_SETIAP_ORANG</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Setiap orang</data>
+  <data key="d6">PEMEGANG_HAK</data>
+</node>
+<node id="A_WARGA">
+  <data key="d0">A_WARGA</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Warga negara</data>
+  <data key="d6">PEMEGANG_HAK</data>
+</node>
+<node id="A_DAERAH_GOV">
+  <data key="d0">A_DAERAH_GOV</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Pemerintahan daerah provinsi/kabupaten/kota</data>
+  <data key="d6">PEMERINTAHAN</data>
+</node>
+<node id="A_PUSAT">
+  <data key="d0">A_PUSAT</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Pemerintah Pusat</data>
+  <data key="d6">PEMERINTAH</data>
+</node>
+<node id="A_PEMDA_UMUM">
+  <data key="d0">A_PEMDA_UMUM</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Pemerintah Daerah (umum)</data>
+  <data key="d6">PEMERINTAH</data>
+</node>
+<node id="A_PROV">
+  <data key="d0">A_PROV</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Pemerintah Daerah Provinsi</data>
+  <data key="d6">PEMERINTAH</data>
+</node>
+<node id="A_KABKOTA">
+  <data key="d0">A_KABKOTA</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Pemerintah Daerah Kabupaten/Kota</data>
+  <data key="d6">PEMERINTAH</data>
+</node>
+<node id="A_DESA">
+  <data key="d0">A_DESA</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Pemerintah Desa</data>
+  <data key="d6">PEMERINTAH</data>
+</node>
+<node id="A_PERANGKAT">
+  <data key="d0">A_PERANGKAT</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Perangkat Daerah</data>
+  <data key="d6">UNIT_ORGANISASI</data>
+</node>
+<node id="A_GUBERNUR">
+  <data key="d0">A_GUBERNUR</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Gubernur</data>
+  <data key="d6">PEJABAT</data>
+</node>
+<node id="A_BUPATI_WALIKOTA">
+  <data key="d0">A_BUPATI_WALIKOTA</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Bupati/Wali Kota</data>
+  <data key="d6">PEJABAT</data>
+</node>
+<node id="A_MENKES">
+  <data key="d0">A_MENKES</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Menteri Kesehatan</data>
+  <data key="d6">PEJABAT</data>
+</node>
+<node id="A_MENDAGRI">
+  <data key="d0">A_MENDAGRI</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Menteri Dalam Negeri</data>
+  <data key="d6">PEJABAT</data>
+</node>
+<node id="A_TENAGA">
+  <data key="d0">A_TENAGA</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Tenaga Medis/Tenaga Kesehatan</data>
+  <data key="d6">PELAKSANA_LAYANAN</data>
+</node>
+<node id="A_PENYELENGGARA_DAERAH">
+  <data key="d0">A_PENYELENGGARA_DAERAH</data>
+  <data key="d1">Actor</data>
+  <data key="d2">Penyelenggara Pemerintahan Daerah</data>
+  <data key="d6">AKTOR_PEMERINTAHAN</data>
+</node>
+<node id="LVL_PROVINSI">
+  <data key="d0">LVL_PROVINSI</data>
+  <data key="d1">SPMLevel</data>
+  <data key="d2">SPM Kesehatan provinsi</data>
+</node>
+<node id="LVL_KABUPATEN_KOTA">
+  <data key="d0">LVL_KABUPATEN_KOTA</data>
+  <data key="d1">SPMLevel</data>
+  <data key="d2">SPM Kesehatan kabupaten/kota</data>
+</node>
+<node id="L01">
+  <data key="d0">L01</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Krisis kesehatan bencana dan/atau potensi bencana daerah provinsi</data>
+  <data key="d7">PROVINSI</data>
+  <data key="d8">R06 Pasal 2 ayat (3) huruf a</data>
+</node>
+<node id="L02">
+  <data key="d0">L02</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Kondisi kejadian luar biasa daerah provinsi</data>
+  <data key="d7">PROVINSI</data>
+  <data key="d8">R06 Pasal 2 ayat (3) huruf b</data>
+</node>
+<node id="L03">
+  <data key="d0">L03</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Pelayanan kesehatan ibu hamil</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d8">R06 Pasal 2 ayat (4) huruf a</data>
+</node>
+<node id="L04">
+  <data key="d0">L04</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Pelayanan kesehatan ibu bersalin</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d8">R06 Pasal 2 ayat (4) huruf b</data>
+</node>
+<node id="L05">
+  <data key="d0">L05</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Pelayanan kesehatan bayi baru lahir</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d8">R06 Pasal 2 ayat (4) huruf c</data>
+</node>
+<node id="L06">
+  <data key="d0">L06</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Pelayanan kesehatan balita</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d8">R06 Pasal 2 ayat (4) huruf d</data>
+</node>
+<node id="L07">
+  <data key="d0">L07</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Pelayanan kesehatan usia pendidikan dasar</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d8">R06 Pasal 2 ayat (4) huruf e</data>
+</node>
+<node id="L08">
+  <data key="d0">L08</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Pelayanan kesehatan usia produktif</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d8">R06 Pasal 2 ayat (4) huruf f</data>
+</node>
+<node id="L09">
+  <data key="d0">L09</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Pelayanan kesehatan usia lanjut</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d8">R06 Pasal 2 ayat (4) huruf g</data>
+</node>
+<node id="L10">
+  <data key="d0">L10</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Pelayanan kesehatan penderita hipertensi</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d8">R06 Pasal 2 ayat (4) huruf h</data>
+</node>
+<node id="L11">
+  <data key="d0">L11</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Pelayanan kesehatan penderita diabetes melitus</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d8">R06 Pasal 2 ayat (4) huruf i</data>
+</node>
+<node id="L12">
+  <data key="d0">L12</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Pelayanan kesehatan orang dengan gangguan jiwa berat</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d8">R06 Pasal 2 ayat (4) huruf j</data>
+</node>
+<node id="L13">
+  <data key="d0">L13</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Pelayanan kesehatan orang terduga tuberkulosis</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d8">R06 Pasal 2 ayat (4) huruf k</data>
+</node>
+<node id="L14">
+  <data key="d0">L14</data>
+  <data key="d1">HealthService</data>
+  <data key="d2">Pelayanan kesehatan orang berisiko terinfeksi HIV</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d8">R06 Pasal 2 ayat (4) huruf l</data>
+</node>
+<node id="N01">
+  <data key="d0">N01</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pemerintahan daerah provinsi, kabupaten, dan kota mengatur serta mengurus sendiri urusan pemerintahannya berdasarkan asas otonomi dan tugas pembantuan.</data>
+  <data key="d9">R01</data>
+  <data key="d10">Pasal 18 ayat (2)</data>
+  <data key="d11">HAK_MENGATUR</data>
+  <data key="d12">WEWENANG_KONSTITUSIONAL</data>
+  <data key="d13">MENGATUR_MENGURUS</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.dpr.go.id/index/uu1945</data>
+</node>
+<node id="P_R01_PASAL_18_AYAT_2">
+  <data key="d0">P_R01_PASAL_18_AYAT_2</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R01 Pasal 18 ayat (2)</data>
+  <data key="d9">R01</data>
+  <data key="d10">Pasal 18 ayat (2)</data>
+  <data key="d4">https://jdih.dpr.go.id/index/uu1945</data>
+</node>
+<node id="N02">
+  <data key="d0">N02</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Hubungan kewenangan antara pusat dan pemerintahan daerah serta antartingkat daerah diatur dengan undang-undang.</data>
+  <data key="d9">R01</data>
+  <data key="d10">Pasal 18A ayat (1)</data>
+  <data key="d11">DIATUR_UU</data>
+  <data key="d12">ATURAN_HUBUNGAN</data>
+  <data key="d13">MENGATUR_HUBUNGAN_WEWENANG</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.dpr.go.id/index/uu1945</data>
+</node>
+<node id="P_R01_PASAL_18A_AYAT_1">
+  <data key="d0">P_R01_PASAL_18A_AYAT_1</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R01 Pasal 18A ayat (1)</data>
+  <data key="d9">R01</data>
+  <data key="d10">Pasal 18A ayat (1)</data>
+  <data key="d4">https://jdih.dpr.go.id/index/uu1945</data>
+</node>
+<node id="N03">
+  <data key="d0">N03</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Hubungan keuangan, pelayanan umum, pemanfaatan sumber daya alam dan sumber daya lainnya antara pemerintah pusat dan pemerintahan daerah diatur serta dilaksanakan secara adil dan selaras berdasarkan undang-undang.</data>
+  <data key="d9">R01</data>
+  <data key="d10">Pasal 18A ayat (2)</data>
+  <data key="d11">ADIL_SELARAS</data>
+  <data key="d12">PRINSIP_KONSTITUSIONAL</data>
+  <data key="d13">MENGATUR_HUBUNGAN_PELAYANAN</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.dpr.go.id/index/uu1945</data>
+</node>
+<node id="P_R01_PASAL_18A_AYAT_2">
+  <data key="d0">P_R01_PASAL_18A_AYAT_2</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R01 Pasal 18A ayat (2)</data>
+  <data key="d9">R01</data>
+  <data key="d10">Pasal 18A ayat (2)</data>
+  <data key="d4">https://jdih.dpr.go.id/index/uu1945</data>
+</node>
+<node id="N04">
+  <data key="d0">N04</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Setiap orang mempunyai hak konstitusional untuk memperoleh pelayanan kesehatan, di samping hak lain yang diatur pada ayat sama.</data>
+  <data key="d9">R01</data>
+  <data key="d10">Pasal 28H ayat (1)</data>
+  <data key="d11">BERHAK</data>
+  <data key="d12">HAK_KONSTITUSIONAL</data>
+  <data key="d13">MEMPEROLEH_PELAYANAN_KESEHATAN</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.dpr.go.id/index/uu1945</data>
+</node>
+<node id="P_R01_PASAL_28H_AYAT_1">
+  <data key="d0">P_R01_PASAL_28H_AYAT_1</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R01 Pasal 28H ayat (1)</data>
+  <data key="d9">R01</data>
+  <data key="d10">Pasal 28H ayat (1)</data>
+  <data key="d4">https://jdih.dpr.go.id/index/uu1945</data>
+</node>
+<node id="N05">
+  <data key="d0">N05</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Negara bertanggung jawab atas penyediaan fasilitas pelayanan kesehatan dan pelayanan umum yang layak.</data>
+  <data key="d9">R01</data>
+  <data key="d10">Pasal 34 ayat (3)</data>
+  <data key="d11">BERTANGGUNG_JAWAB</data>
+  <data key="d12">TANGGUNG_JAWAB_NEGARA</data>
+  <data key="d13">MENYEDIAKAN_FASILITAS</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.dpr.go.id/index/uu1945</data>
+</node>
+<node id="P_R01_PASAL_34_AYAT_3">
+  <data key="d0">P_R01_PASAL_34_AYAT_3</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R01 Pasal 34 ayat (3)</data>
+  <data key="d9">R01</data>
+  <data key="d10">Pasal 34 ayat (3)</data>
+  <data key="d4">https://jdih.dpr.go.id/index/uu1945</data>
+</node>
+<node id="N06">
+  <data key="d0">N06</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Kesehatan ditempatkan sebagai salah satu urusan pemerintahan wajib yang berkaitan dengan pelayanan dasar.</data>
+  <data key="d9">R02</data>
+  <data key="d10">Pasal 12 ayat (1) huruf b</data>
+  <data key="d11">DIKLASIFIKASIKAN</data>
+  <data key="d12">KLASIFIKASI_URUSAN</data>
+  <data key="d13">MENETAPKAN_KESEHATAN_URUSAN_DASAR</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.pkp.go.id/produk-hukum/file/uu-nomor-23-tahun-2014.pdf</data>
+</node>
+<node id="P_R02_PASAL_12_AYAT_1_HURUF_B">
+  <data key="d0">P_R02_PASAL_12_AYAT_1_HURUF_B</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R02 Pasal 12 ayat (1) huruf b</data>
+  <data key="d9">R02</data>
+  <data key="d10">Pasal 12 ayat (1) huruf b</data>
+  <data key="d4">https://jdih.pkp.go.id/produk-hukum/file/uu-nomor-23-tahun-2014.pdf</data>
+</node>
+<node id="N07a">
+  <data key="d0">N07a</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Penyelenggara pemerintahan daerah memprioritaskan urusan pemerintahan wajib yang berkaitan dengan pelayanan dasar.</data>
+  <data key="d9">R02</data>
+  <data key="d10">Pasal 18 ayat (1)</data>
+  <data key="d11">WAJIB_BERPEDOMAN</data>
+  <data key="d12">PRIORITAS_DAN_STANDAR</data>
+  <data key="d13">MEMPRIORITASKAN_URUSAN_DASAR</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.pkp.go.id/produk-hukum/file/uu-nomor-23-tahun-2014.pdf</data>
+</node>
+<node id="P_R02_PASAL_18_AYAT_1">
+  <data key="d0">P_R02_PASAL_18_AYAT_1</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R02 Pasal 18 ayat (1)</data>
+  <data key="d9">R02</data>
+  <data key="d10">Pasal 18 ayat (1)</data>
+  <data key="d4">https://jdih.pkp.go.id/produk-hukum/file/uu-nomor-23-tahun-2014.pdf</data>
+</node>
+<node id="N07b">
+  <data key="d0">N07b</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pelaksanaan pelayanan dasar dalam urusan pemerintahan wajib berpedoman pada SPM yang ditetapkan Pemerintah Pusat.</data>
+  <data key="d9">R02</data>
+  <data key="d10">Pasal 18 ayat (2)</data>
+  <data key="d11">WAJIB_BERPEDOMAN</data>
+  <data key="d12">PRIORITAS_DAN_STANDAR</data>
+  <data key="d13">BERPEDOMAN_SPM_PUSAT</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.pkp.go.id/produk-hukum/file/uu-nomor-23-tahun-2014.pdf</data>
+</node>
+<node id="P_R02_PASAL_18_AYAT_2">
+  <data key="d0">P_R02_PASAL_18_AYAT_2</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R02 Pasal 18 ayat (2)</data>
+  <data key="d9">R02</data>
+  <data key="d10">Pasal 18 ayat (2)</data>
+  <data key="d4">https://jdih.pkp.go.id/produk-hukum/file/uu-nomor-23-tahun-2014.pdf</data>
+</node>
+<node id="N08a">
+  <data key="d0">N08a</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pemerintah daerah dapat menetapkan kebijakan pembangunan kesehatan daerah.</data>
+  <data key="d9">R03</data>
+  <data key="d10">Pasal 15</data>
+  <data key="d11">DAPAT</data>
+  <data key="d12">KEBIJAKAN_DAERAH_DAN_NSPK</data>
+  <data key="d13">MENETAPKAN_KEBIJAKAN_DAERAH</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://p2.kemkes.go.id/wp-content/uploads/2024/08/Undang-undang-Republik-Indonesia-Nomor-17-Tahun-2023-tentang-Kesehatan.pdf</data>
+</node>
+<node id="P_R03_PASAL_15">
+  <data key="d0">P_R03_PASAL_15</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R03 Pasal 15</data>
+  <data key="d9">R03</data>
+  <data key="d10">Pasal 15</data>
+  <data key="d4">https://p2.kemkes.go.id/wp-content/uploads/2024/08/Undang-undang-Republik-Indonesia-Nomor-17-Tahun-2023-tentang-Kesehatan.pdf</data>
+</node>
+<node id="N08b">
+  <data key="d0">N08b</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Kebijakan daerah wajib mengacu pada NSPK pembangunan kesehatan yang ditetapkan pusat.</data>
+  <data key="d9">R03</data>
+  <data key="d10">Pasal 15</data>
+  <data key="d11">WAJIB</data>
+  <data key="d12">KEBIJAKAN_DAERAH_DAN_NSPK</data>
+  <data key="d13">MENGACU_NSPK_PUSAT</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://p2.kemkes.go.id/wp-content/uploads/2024/08/Undang-undang-Republik-Indonesia-Nomor-17-Tahun-2023-tentang-Kesehatan.pdf</data>
+</node>
+<node id="N09">
+  <data key="d0">N09</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pemerintah pusat menjalankan fungsi menetapkan standar pelayanan kesehatan.</data>
+  <data key="d9">R03</data>
+  <data key="d10">Pasal 19 ayat (2) huruf e</data>
+  <data key="d11">MELAKUKAN</data>
+  <data key="d12">FUNGSI_PUSAT</data>
+  <data key="d13">MENETAPKAN_STANDAR_PELAYANAN_KESEHATAN</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://p2.kemkes.go.id/wp-content/uploads/2024/08/Undang-undang-Republik-Indonesia-Nomor-17-Tahun-2023-tentang-Kesehatan.pdf</data>
+</node>
+<node id="P_R03_PASAL_19_AYAT_2_HURUF_E">
+  <data key="d0">P_R03_PASAL_19_AYAT_2_HURUF_E</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R03 Pasal 19 ayat (2) huruf e</data>
+  <data key="d9">R03</data>
+  <data key="d10">Pasal 19 ayat (2) huruf e</data>
+  <data key="d4">https://p2.kemkes.go.id/wp-content/uploads/2024/08/Undang-undang-Republik-Indonesia-Nomor-17-Tahun-2023-tentang-Kesehatan.pdf</data>
+</node>
+<node id="N10">
+  <data key="d0">N10</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pemerintah daerah melakukan perencanaan, pengelolaan, pemantauan, supervisi, dan evaluasi program kesehatan.</data>
+  <data key="d9">R03</data>
+  <data key="d10">Pasal 19 ayat (3) huruf b</data>
+  <data key="d11">MELAKUKAN</data>
+  <data key="d12">FUNGSI_DAERAH</data>
+  <data key="d13">MERENCANAKAN_MENGELOLA_MEMANTAU_SUPERVISI_EVALUASI</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://p2.kemkes.go.id/wp-content/uploads/2024/08/Undang-undang-Republik-Indonesia-Nomor-17-Tahun-2023-tentang-Kesehatan.pdf</data>
+</node>
+<node id="P_R03_PASAL_19_AYAT_3_HURUF_B">
+  <data key="d0">P_R03_PASAL_19_AYAT_3_HURUF_B</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R03 Pasal 19 ayat (3) huruf b</data>
+  <data key="d9">R03</data>
+  <data key="d10">Pasal 19 ayat (3) huruf b</data>
+  <data key="d4">https://p2.kemkes.go.id/wp-content/uploads/2024/08/Undang-undang-Republik-Indonesia-Nomor-17-Tahun-2023-tentang-Kesehatan.pdf</data>
+</node>
+<node id="N11a">
+  <data key="d0">N11a</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pusat, provinsi, kabupaten/kota, dan desa bertanggung jawab menyelenggarakan pengelolaan kesehatan menurut kewenangan.</data>
+  <data key="d9">R07</data>
+  <data key="d10">Pasal 21 ayat (1)</data>
+  <data key="d11">BERTANGGUNG_JAWAB</data>
+  <data key="d12">TANGGUNG_JAWAB_DAN_PARTISIPASI</data>
+  <data key="d13">MENGELOLA_KESEHATAN</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.kemkes.go.id/storage/documents/pdfs/2026perpres013.pdf</data>
+</node>
+<node id="P_R07_PASAL_21_AYAT_1">
+  <data key="d0">P_R07_PASAL_21_AYAT_1</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R07 Pasal 21 ayat (1)</data>
+  <data key="d9">R07</data>
+  <data key="d10">Pasal 21 ayat (1)</data>
+  <data key="d4">https://jdih.kemkes.go.id/storage/documents/pdfs/2026perpres013.pdf</data>
+</node>
+<node id="N11b">
+  <data key="d0">N11b</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pusat, provinsi, kabupaten/kota, dan desa mendorong partisipasi masyarakat menurut kewenangan.</data>
+  <data key="d9">R07</data>
+  <data key="d10">Pasal 21 ayat (1)</data>
+  <data key="d11">BERTANGGUNG_JAWAB</data>
+  <data key="d12">TANGGUNG_JAWAB_DAN_PARTISIPASI</data>
+  <data key="d13">MENDORONG_PARTISIPASI</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.kemkes.go.id/storage/documents/pdfs/2026perpres013.pdf</data>
+</node>
+<node id="N12">
+  <data key="d0">N12</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pemerintah pusat, provinsi, dan kabupaten/kota memastikan akses, cakupan, pemerataan, keamanan, mutu, dan keterjangkauan layanan kesehatan.</data>
+  <data key="d9">R07</data>
+  <data key="d10">Pasal 22 ayat (1)</data>
+  <data key="d11">MEMASTIKAN</data>
+  <data key="d12">JAMINAN_MUTU_AKSES</data>
+  <data key="d13">MEMASTIKAN_AKSES_MUTU</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.kemkes.go.id/storage/documents/pdfs/2026perpres013.pdf</data>
+</node>
+<node id="P_R07_PASAL_22_AYAT_1">
+  <data key="d0">P_R07_PASAL_22_AYAT_1</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R07 Pasal 22 ayat (1)</data>
+  <data key="d9">R07</data>
+  <data key="d10">Pasal 22 ayat (1)</data>
+  <data key="d4">https://jdih.kemkes.go.id/storage/documents/pdfs/2026perpres013.pdf</data>
+</node>
+<node id="N13">
+  <data key="d0">N13</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Penetapan dan penerapan SPM berlandaskan kesesuaian kewenangan, ketersediaan, keterjangkauan, kesinambungan, keterukuran, serta ketepatan sasaran.</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 2</data>
+  <data key="d11">PRINSIP</data>
+  <data key="d12">PRINSIP_SPM</data>
+  <data key="d13">MENERAPKAN_PRINSIP_SPM</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="P_R04_PASAL_2">
+  <data key="d0">P_R04_PASAL_2</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R04 Pasal 2</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 2</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="N14">
+  <data key="d0">N14</data>
+  <data key="d1">Norm</data>
+  <data key="d2">SPM kesehatan provinsi memasukkan pelayanan untuk penduduk dalam kondisi kejadian luar biasa tingkat provinsi.</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 6 ayat (2) huruf b</data>
+  <data key="d11">MENCAKUP</data>
+  <data key="d12">KLASIFIKASI_LAYANAN</data>
+  <data key="d13">MENCAKUP_LAYANAN</data>
+  <data key="d7">PROVINSI</data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="P_R04_PASAL_6_AYAT_2_HURUF_B">
+  <data key="d0">P_R04_PASAL_6_AYAT_2_HURUF_B</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R04 Pasal 6 ayat (2) huruf b</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 6 ayat (2) huruf b</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="N15">
+  <data key="d0">N15</data>
+  <data key="d1">Norm</data>
+  <data key="d2">SPM kesehatan kabupaten/kota memasukkan pelayanan kesehatan ibu hamil.</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 6 ayat (3) huruf a</data>
+  <data key="d11">MENCAKUP</data>
+  <data key="d12">KLASIFIKASI_LAYANAN</data>
+  <data key="d13">MENCAKUP_LAYANAN</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="P_R04_PASAL_6_AYAT_3_HURUF_A">
+  <data key="d0">P_R04_PASAL_6_AYAT_3_HURUF_A</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R04 Pasal 6 ayat (3) huruf a</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 6 ayat (3) huruf a</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="N16">
+  <data key="d0">N16</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Penerapan SPM dijelaskan melalui pengumpulan data, penghitungan kebutuhan, penyusunan rencana, dan pelaksanaan pelayanan dasar.</data>
+  <data key="d9">R05</data>
+  <data key="d10">Pasal 4 huruf a-d</data>
+  <data key="d11">PROSEDUR</data>
+  <data key="d12">TAHAPAN_PENERAPAN</data>
+  <data key="d13">PENGUMPULAN_PENGHITUNGAN_PERENCANAAN_PELAKSANAAN</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://peraturan.go.id/files/bn1419-2021.pdf</data>
+</node>
+<node id="P_R05_PASAL_4_HURUF_A_D">
+  <data key="d0">P_R05_PASAL_4_HURUF_A_D</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R05 Pasal 4 huruf a-d</data>
+  <data key="d9">R05</data>
+  <data key="d10">Pasal 4 huruf a-d</data>
+  <data key="d4">https://peraturan.go.id/files/bn1419-2021.pdf</data>
+</node>
+<node id="N17a">
+  <data key="d0">N17a</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Perangkat daerah mendata jumlah dan identitas warga negara yang berhak menerima layanan dasar.</data>
+  <data key="d9">R05</data>
+  <data key="d10">Pasal 5 ayat (1) huruf a</data>
+  <data key="d11">MELAKUKAN</data>
+  <data key="d12">PENDATAAN_PERANGKAT_DAERAH</data>
+  <data key="d13">MENDATA_PENERIMA</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://peraturan.go.id/files/bn1419-2021.pdf</data>
+</node>
+<node id="P_R05_PASAL_5_AYAT_1_HURUF_A">
+  <data key="d0">P_R05_PASAL_5_AYAT_1_HURUF_A</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R05 Pasal 5 ayat (1) huruf a</data>
+  <data key="d9">R05</data>
+  <data key="d10">Pasal 5 ayat (1) huruf a</data>
+  <data key="d4">https://peraturan.go.id/files/bn1419-2021.pdf</data>
+</node>
+<node id="N17b">
+  <data key="d0">N17b</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Perangkat daerah mendata barang/jasa yang tersedia termasuk sarana dan prasarana.</data>
+  <data key="d9">R05</data>
+  <data key="d10">Pasal 5 ayat (1) huruf b</data>
+  <data key="d11">MELAKUKAN</data>
+  <data key="d12">PENDATAAN_PERANGKAT_DAERAH</data>
+  <data key="d13">MENDATA_SARANA</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://peraturan.go.id/files/bn1419-2021.pdf</data>
+</node>
+<node id="P_R05_PASAL_5_AYAT_1_HURUF_B">
+  <data key="d0">P_R05_PASAL_5_AYAT_1_HURUF_B</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R05 Pasal 5 ayat (1) huruf b</data>
+  <data key="d9">R05</data>
+  <data key="d10">Pasal 5 ayat (1) huruf b</data>
+  <data key="d4">https://peraturan.go.id/files/bn1419-2021.pdf</data>
+</node>
+<node id="N17c">
+  <data key="d0">N17c</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pendataan untuk bidang kesehatan juga meliputi kuantitas dan kualitas SDM yang tersedia.</data>
+  <data key="d9">R05</data>
+  <data key="d10">Pasal 5 ayat (2)</data>
+  <data key="d11">MELAKUKAN</data>
+  <data key="d12">PENDATAAN_PERANGKAT_DAERAH</data>
+  <data key="d13">MENDATA_SDM</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://peraturan.go.id/files/bn1419-2021.pdf</data>
+</node>
+<node id="P_R05_PASAL_5_AYAT_2">
+  <data key="d0">P_R05_PASAL_5_AYAT_2</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R05 Pasal 5 ayat (2)</data>
+  <data key="d9">R05</data>
+  <data key="d10">Pasal 5 ayat (2)</data>
+  <data key="d4">https://peraturan.go.id/files/bn1419-2021.pdf</data>
+</node>
+<node id="N18">
+  <data key="d0">N18</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pemerintah daerah provinsi dan pemerintah daerah kabupaten/kota diwajibkan menerapkan SPM Kesehatan.</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (1)</data>
+  <data key="d11">WAJIB</data>
+  <data key="d12">KEWAJIBAN_SPM</data>
+  <data key="d13">MENERAPKAN_SPM_KESEHATAN</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_1">
+  <data key="d0">P_R06_PASAL_2_AYAT_1</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (1)</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (1)</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="N19">
+  <data key="d0">N19</data>
+  <data key="d1">Norm</data>
+  <data key="d2">SPM Kesehatan provinsi mencakup jenis pelayanan dasar bagi penduduk dalam kondisi KLB tingkat provinsi.</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (3) huruf b</data>
+  <data key="d11">MENCAKUP</data>
+  <data key="d12">KLASIFIKASI_LAYANAN</data>
+  <data key="d13">MENCAKUP_LAYANAN</data>
+  <data key="d7">PROVINSI</data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_3_HURUF_B">
+  <data key="d0">P_R06_PASAL_2_AYAT_3_HURUF_B</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (3) huruf b</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (3) huruf b</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="N20">
+  <data key="d0">N20</data>
+  <data key="d1">Norm</data>
+  <data key="d2">SPM Kesehatan kabupaten/kota mencakup jenis pelayanan dasar kesehatan ibu hamil.</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (4) huruf a</data>
+  <data key="d11">MENCAKUP</data>
+  <data key="d12">KLASIFIKASI_LAYANAN</data>
+  <data key="d13">MENCAKUP_LAYANAN</data>
+  <data key="d7">KABUPATEN_KOTA</data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_4_HURUF_A">
+  <data key="d0">P_R06_PASAL_2_AYAT_4_HURUF_A</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (4) huruf a</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (4) huruf a</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="N21">
+  <data key="d0">N21</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pemerintah daerah diwajibkan memenuhi mutu pelayanan untuk setiap jenis pelayanan dasar SPM Kesehatan.</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 3 ayat (1)</data>
+  <data key="d11">WAJIB</data>
+  <data key="d12">KEWAJIBAN_MUTU</data>
+  <data key="d13">MEMENUHI_MUTU_PELAYANAN</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_3_AYAT_1">
+  <data key="d0">P_R06_PASAL_3_AYAT_1</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 3 ayat (1)</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 3 ayat (1)</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="N22">
+  <data key="d0">N22</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Perhitungan pendanaan SPM Kesehatan memperhatikan berbagai sumber pembiayaan untuk mencegah penganggaran ganda.</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 4 ayat (1)</data>
+  <data key="d11">DIHITUNG</data>
+  <data key="d12">PRINSIP_PENDANAAN</data>
+  <data key="d13">MENGHITUNG_PENDANAAN</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_4_AYAT_1">
+  <data key="d0">P_R06_PASAL_4_AYAT_1</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 4 ayat (1)</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 4 ayat (1)</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="N23a">
+  <data key="d0">N23a</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Gubernur dan bupati/wali kota melaporkan capaian mutu dan penerima SPM secara berkala kepada Mendagri dan Menkes.</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 5 ayat (1)</data>
+  <data key="d11">WAJIB_PELAPORAN</data>
+  <data key="d12">PELAPORAN_SPM</data>
+  <data key="d13">MELAPORKAN_CAPAIAN</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_5_AYAT_1">
+  <data key="d0">P_R06_PASAL_5_AYAT_1</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 5 ayat (1)</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 5 ayat (1)</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="N23b">
+  <data key="d0">N23b</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pelaporan capaian SPM sebagaimana ayat (1) dilakukan secara berjenjang melalui sistem informasi Kemendagri yang terintegrasi dengan sistem informasi kesehatan nasional.</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 5 ayat (2)</data>
+  <data key="d11">WAJIB_PELAPORAN</data>
+  <data key="d12">PELAPORAN_SPM</data>
+  <data key="d13">PELAPORAN_TERINTEGRASI</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_5_AYAT_2">
+  <data key="d0">P_R06_PASAL_5_AYAT_2</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 5 ayat (2)</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 5 ayat (2)</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="S01">
+  <data key="d0">S01</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pemerintahan daerah menjalankan otonomi seluas-luasnya kecuali urusan yang ditetapkan sebagai urusan pusat oleh undang-undang.</data>
+  <data key="d9">R01</data>
+  <data key="d10">Pasal 18 ayat (5)</data>
+  <data key="d11">BERDASARKAN_TEKSTUAL</data>
+  <data key="d12">PRINSIP_OTONOMI</data>
+  <data key="d13">MELAKSANAKAN_OTONOMI</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.dpr.go.id/index/uu1945</data>
+</node>
+<node id="P_R01_PASAL_18_AYAT_5">
+  <data key="d0">P_R01_PASAL_18_AYAT_5</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R01 Pasal 18 ayat (5)</data>
+  <data key="d9">R01</data>
+  <data key="d10">Pasal 18 ayat (5)</data>
+  <data key="d4">https://jdih.dpr.go.id/index/uu1945</data>
+</node>
+<node id="S02">
+  <data key="d0">S02</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pengaturan lebih lanjut tentang SPM diarahkan pada bentuk peraturan pemerintah.</data>
+  <data key="d9">R02</data>
+  <data key="d10">Pasal 18 ayat (3)</data>
+  <data key="d11">BERDASARKAN_TEKSTUAL</data>
+  <data key="d12">DELEGASI_PENGATURAN</data>
+  <data key="d13">DIATUR_PP</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.pkp.go.id/produk-hukum/file/uu-nomor-23-tahun-2014.pdf</data>
+</node>
+<node id="P_R02_PASAL_18_AYAT_3">
+  <data key="d0">P_R02_PASAL_18_AYAT_3</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R02 Pasal 18 ayat (3)</data>
+  <data key="d9">R02</data>
+  <data key="d10">Pasal 18 ayat (3)</data>
+  <data key="d4">https://jdih.pkp.go.id/produk-hukum/file/uu-nomor-23-tahun-2014.pdf</data>
+</node>
+<node id="S03">
+  <data key="d0">S03</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Standar teknis SPM Kesehatan diatur dengan peraturan menteri bidang kesehatan setelah koordinasi dengan instansi terkait.</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 6 ayat (6)</data>
+  <data key="d11">BERDASARKAN_TEKSTUAL</data>
+  <data key="d12">DELEGASI_PENGATURAN</data>
+  <data key="d13">MENETAPKAN_TEKNIS_SPM</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="P_R04_PASAL_6_AYAT_6">
+  <data key="d0">P_R04_PASAL_6_AYAT_6</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R04 Pasal 6 ayat (6)</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 6 ayat (6)</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="S04">
+  <data key="d0">S04</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Ketentuan lebih lanjut tentang penerapan SPM diatur dengan peraturan menteri bidang pemerintahan dalam negeri setelah koordinasi.</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 16</data>
+  <data key="d11">BERDASARKAN_TEKSTUAL</data>
+  <data key="d12">DELEGASI_PENGATURAN</data>
+  <data key="d13">MENETAPKAN_PENERAPAN_SPM</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="P_R04_PASAL_16">
+  <data key="d0">P_R04_PASAL_16</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R04 Pasal 16</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 16</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="S05">
+  <data key="d0">S05</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Menteri, gubernur, dan bupati/wali kota melakukan pemantauan, evaluasi, pembinaan, dan pengawasan pemenuhan mutu SPM secara berjenjang menurut kewenangan.</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 6</data>
+  <data key="d11">BERDASARKAN_TEKSTUAL</data>
+  <data key="d12">PENGAWASAN</data>
+  <data key="d13">MENGAWASI_MEMBINA</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_6">
+  <data key="d0">P_R06_PASAL_6</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 6</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 6</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="S06">
+  <data key="d0">S06</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pemerintah provinsi dan kabupaten/kota bertanggung jawab memenuhi sumber daya untuk upaya kesehatan, terutama program prioritas pemerintah.</data>
+  <data key="d9">R07</data>
+  <data key="d10">Pasal 21 ayat (4)</data>
+  <data key="d11">BERDASARKAN_TEKSTUAL</data>
+  <data key="d12">SUMBER_DAYA</data>
+  <data key="d13">MEMENUHI_SUMBER_DAYA</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://jdih.kemkes.go.id/storage/documents/pdfs/2026perpres013.pdf</data>
+</node>
+<node id="P_R07_PASAL_21_AYAT_4">
+  <data key="d0">P_R07_PASAL_21_AYAT_4</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R07 Pasal 21 ayat (4)</data>
+  <data key="d9">R07</data>
+<data key="d10">Pasal 21 ayat (4)</data>
+  <data key="d4">https://jdih.kemkes.go.id/storage/documents/pdfs/2026perpres013.pdf</data>
+</node>
+<node id="S07">
+  <data key="d0">S07</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pusat dan pemerintah daerah bertanggung jawab menyelenggarakan upaya kesehatan perseorangan dan masyarakat.</data>
+  <data key="d9">R03</data>
+  <data key="d10">Pasal 19 ayat (1)</data>
+  <data key="d11">BERDASARKAN_TEKSTUAL</data>
+  <data key="d12">TANGGUNG_JAWAB_UPAYA</data>
+  <data key="d13">MENYELENGGARAKAN_UPAYA_KESEHATAN</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://p2.kemkes.go.id/wp-content/uploads/2024/08/Undang-undang-Republik-Indonesia-Nomor-17-Tahun-2023-tentang-Kesehatan.pdf</data>
+</node>
+<node id="P_R03_PASAL_19_AYAT_1">
+  <data key="d0">P_R03_PASAL_19_AYAT_1</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R03 Pasal 19 ayat (1)</data>
+  <data key="d9">R03</data>
+  <data key="d10">Pasal 19 ayat (1)</data>
+  <data key="d4">https://p2.kemkes.go.id/wp-content/uploads/2024/08/Undang-undang-Republik-Indonesia-Nomor-17-Tahun-2023-tentang-Kesehatan.pdf</data>
+</node>
+<node id="S08">
+  <data key="d0">S08</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Hasil pengumpulan data SPM diintegrasikan dengan Sistem Informasi Pemerintahan Daerah menurut ketentuan.</data>
+  <data key="d9">R05</data>
+  <data key="d10">Pasal 5 ayat (4)</data>
+  <data key="d11">BERDASARKAN_TEKSTUAL</data>
+  <data key="d12">INTEGRASI_DATA</data>
+  <data key="d13">INTEGRASI_SIPD</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://peraturan.go.id/files/bn1419-2021.pdf</data>
+</node>
+<node id="P_R05_PASAL_5_AYAT_4">
+  <data key="d0">P_R05_PASAL_5_AYAT_4</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R05 Pasal 5 ayat (4)</data>
+  <data key="d9">R05</data>
+  <data key="d10">Pasal 5 ayat (4)</data>
+  <data key="d4">https://peraturan.go.id/files/bn1419-2021.pdf</data>
+</node>
+<node id="S09">
+  <data key="d0">S09</data>
+  <data key="d1">Norm</data>
+  <data key="d2">SPM berisi jenis dan mutu pelayanan dasar dalam urusan wajib yang berhak diterima setiap warga negara secara minimal.</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 1 angka 1</data>
+  <data key="d11">BERDASARKAN_TEKSTUAL</data>
+  <data key="d12">DEFINISI_SPM</data>
+  <data key="d13">DEFINISI_SPM</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="P_R04_PASAL_1_ANGKA_1">
+  <data key="d0">P_R04_PASAL_1_ANGKA_1</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R04 Pasal 1 angka 1</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 1 angka 1</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="S10">
+  <data key="d0">S10</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Gubernur sebagai wakil pemerintah pusat melakukan pembinaan dan pengawasan SPM kabupaten/kota secara umum dan teknis.</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 19 ayat (4)</data>
+  <data key="d11">BERDASARKAN_TEKSTUAL</data>
+  <data key="d12">PENGAWASAN_KABKOTA</data>
+  <data key="d13">MENGAWASI_KABKOTA</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="P_R04_PASAL_19_AYAT_4">
+  <data key="d0">P_R04_PASAL_19_AYAT_4</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R04 Pasal 19 ayat (4)</data>
+  <data key="d9">R04</data>
+  <data key="d10">Pasal 19 ayat (4)</data>
+  <data key="d4">https://www.peraturan.go.id/files/pp2-2018bt.pdf</data>
+</node>
+<node id="S11">
+  <data key="d0">S11</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pelayanan dasar SPM dapat berlangsung pada fasilitas kesehatan milik pemerintah pusat, daerah, ataupun swasta.</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (5)</data>
+  <data key="d11">BERDASARKAN_TEKSTUAL</data>
+  <data key="d12">FASILITAS_PELAYANAN</data>
+  <data key="d13">MENETAPKAN_LOKUS_PELAYANAN</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_5">
+  <data key="d0">P_R06_PASAL_2_AYAT_5</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (5)</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (5)</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="S12">
+  <data key="d0">S12</data>
+  <data key="d1">Norm</data>
+  <data key="d2">Pelayanan dasar dilaksanakan tenaga medis dan/atau tenaga kesehatan berdasarkan kompetensi dan kewenangan.</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (6)</data>
+  <data key="d11">BERDASARKAN_TEKSTUAL</data>
+  <data key="d12">TENAGA_PELAKSANA</data>
+  <data key="d13">MELAKSANAKAN_PELAYANAN</data>
+  <data key="d7"></data>
+  <data key="d14">BELUM</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_6">
+  <data key="d0">P_R06_PASAL_2_AYAT_6</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (6)</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (6)</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_3_HURUF_A">
+  <data key="d0">P_R06_PASAL_2_AYAT_3_HURUF_A</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (3) huruf a</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (3) huruf a</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_4_HURUF_B">
+  <data key="d0">P_R06_PASAL_2_AYAT_4_HURUF_B</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (4) huruf b</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (4) huruf b</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_4_HURUF_C">
+  <data key="d0">P_R06_PASAL_2_AYAT_4_HURUF_C</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (4) huruf c</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (4) huruf c</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_4_HURUF_D">
+  <data key="d0">P_R06_PASAL_2_AYAT_4_HURUF_D</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (4) huruf d</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (4) huruf d</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_4_HURUF_E">
+  <data key="d0">P_R06_PASAL_2_AYAT_4_HURUF_E</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (4) huruf e</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (4) huruf e</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_4_HURUF_F">
+  <data key="d0">P_R06_PASAL_2_AYAT_4_HURUF_F</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (4) huruf f</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (4) huruf f</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_4_HURUF_G">
+  <data key="d0">P_R06_PASAL_2_AYAT_4_HURUF_G</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (4) huruf g</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (4) huruf g</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_4_HURUF_H">
+  <data key="d0">P_R06_PASAL_2_AYAT_4_HURUF_H</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (4) huruf h</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (4) huruf h</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_4_HURUF_I">
+  <data key="d0">P_R06_PASAL_2_AYAT_4_HURUF_I</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (4) huruf i</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (4) huruf i</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_4_HURUF_J">
+  <data key="d0">P_R06_PASAL_2_AYAT_4_HURUF_J</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (4) huruf j</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (4) huruf j</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_4_HURUF_K">
+  <data key="d0">P_R06_PASAL_2_AYAT_4_HURUF_K</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (4) huruf k</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (4) huruf k</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<node id="P_R06_PASAL_2_AYAT_4_HURUF_L">
+  <data key="d0">P_R06_PASAL_2_AYAT_4_HURUF_L</data>
+  <data key="d1">Provision</data>
+  <data key="d2">R06 Pasal 2 ayat (4) huruf l</data>
+  <data key="d9">R06</data>
+  <data key="d10">Pasal 2 ayat (4) huruf l</data>
+  <data key="d4">https://www.peraturan.go.id/files/permenkes-no-6-tahun-2024.pdf</data>
+</node>
+<edge source="R01" target="P_R01_PASAL_18_AYAT_2" id="EP_P_R01_PASAL_18_AYAT_2">
+  <data key="d15">EP_P_R01_PASAL_18_AYAT_2</data>
+  <data key="d16">R01</data>
+  <data key="d17">P_R01_PASAL_18_AYAT_2</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18 ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R01" target="P_R01_PASAL_18A_AYAT_1" id="EP_P_R01_PASAL_18A_AYAT_1">
+  <data key="d15">EP_P_R01_PASAL_18A_AYAT_1</data>
+  <data key="d16">R01</data>
+  <data key="d17">P_R01_PASAL_18A_AYAT_1</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18A ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R01" target="P_R01_PASAL_18A_AYAT_2" id="EP_P_R01_PASAL_18A_AYAT_2">
+  <data key="d15">EP_P_R01_PASAL_18A_AYAT_2</data>
+  <data key="d16">R01</data>
+  <data key="d17">P_R01_PASAL_18A_AYAT_2</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18A ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R01" target="P_R01_PASAL_28H_AYAT_1" id="EP_P_R01_PASAL_28H_AYAT_1">
+  <data key="d15">EP_P_R01_PASAL_28H_AYAT_1</data>
+  <data key="d16">R01</data>
+  <data key="d17">P_R01_PASAL_28H_AYAT_1</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 28H ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R01" target="P_R01_PASAL_34_AYAT_3" id="EP_P_R01_PASAL_34_AYAT_3">
+  <data key="d15">EP_P_R01_PASAL_34_AYAT_3</data>
+  <data key="d16">R01</data>
+  <data key="d17">P_R01_PASAL_34_AYAT_3</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 34 ayat (3)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R01" target="P_R01_PASAL_18_AYAT_5" id="EP_P_R01_PASAL_18_AYAT_5">
+  <data key="d15">EP_P_R01_PASAL_18_AYAT_5</data>
+  <data key="d16">R01</data>
+  <data key="d17">P_R01_PASAL_18_AYAT_5</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18 ayat (5)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R02" target="P_R02_PASAL_12_AYAT_1_HURUF_B" id="EP_P_R02_PASAL_12_AYAT_1_HURUF_B">
+  <data key="d15">EP_P_R02_PASAL_12_AYAT_1_HURUF_B</data>
+  <data key="d16">R02</data>
+  <data key="d17">P_R02_PASAL_12_AYAT_1_HURUF_B</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R02 Pasal 12 ayat (1) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R02" target="P_R02_PASAL_18_AYAT_1" id="EP_P_R02_PASAL_18_AYAT_1">
+  <data key="d15">EP_P_R02_PASAL_18_AYAT_1</data>
+  <data key="d16">R02</data>
+  <data key="d17">P_R02_PASAL_18_AYAT_1</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R02 Pasal 18 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R02" target="P_R02_PASAL_18_AYAT_2" id="EP_P_R02_PASAL_18_AYAT_2">
+  <data key="d15">EP_P_R02_PASAL_18_AYAT_2</data>
+  <data key="d16">R02</data>
+  <data key="d17">P_R02_PASAL_18_AYAT_2</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R02 Pasal 18 ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R02" target="P_R02_PASAL_18_AYAT_3" id="EP_P_R02_PASAL_18_AYAT_3">
+  <data key="d15">EP_P_R02_PASAL_18_AYAT_3</data>
+  <data key="d16">R02</data>
+  <data key="d17">P_R02_PASAL_18_AYAT_3</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R02 Pasal 18 ayat (3)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R02" target="R01" id="D01">
+  <data key="d15">D01</data>
+  <data key="d16">R02</data>
+  <data key="d17">R01</data>
+  <data key="d18">DOCUMENT_MENGINGAT</data>
+  <data key="d19">E1</data>
+  <data key="d20">UUD Pasal 18 dan 18A tercantum dalam dasar hukum UU 23/2014</data>
+  <data key="d21">SUMBER_DOKUMEN</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R03" target="P_R03_PASAL_15" id="EP_P_R03_PASAL_15">
+  <data key="d15">EP_P_R03_PASAL_15</data>
+  <data key="d16">R03</data>
+  <data key="d17">P_R03_PASAL_15</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 15</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R03" target="P_R03_PASAL_19_AYAT_2_HURUF_E" id="EP_P_R03_PASAL_19_AYAT_2_HURUF_E">
+  <data key="d15">EP_P_R03_PASAL_19_AYAT_2_HURUF_E</data>
+  <data key="d16">R03</data>
+  <data key="d17">P_R03_PASAL_19_AYAT_2_HURUF_E</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 19 ayat (2) huruf e</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R03" target="P_R03_PASAL_19_AYAT_3_HURUF_B" id="EP_P_R03_PASAL_19_AYAT_3_HURUF_B">
+  <data key="d15">EP_P_R03_PASAL_19_AYAT_3_HURUF_B</data>
+  <data key="d16">R03</data>
+  <data key="d17">P_R03_PASAL_19_AYAT_3_HURUF_B</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 19 ayat (3) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R03" target="P_R03_PASAL_19_AYAT_1" id="EP_P_R03_PASAL_19_AYAT_1">
+  <data key="d15">EP_P_R03_PASAL_19_AYAT_1</data>
+  <data key="d16">R03</data>
+  <data key="d17">P_R03_PASAL_19_AYAT_1</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 19 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R03" target="R01" id="D02">
+  <data key="d15">D02</data>
+  <data key="d16">R03</data>
+  <data key="d17">R01</data>
+  <data key="d18">DOCUMENT_MENGINGAT</data>
+  <data key="d19">E1</data>
+  <data key="d20">UUD Pasal 28H(1) dan Pasal 34(3) tercantum dalam dasar hukum UU 17/2023</data>
+  <data key="d21">SUMBER_DOKUMEN</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R04" target="P_R04_PASAL_2" id="EP_P_R04_PASAL_2">
+  <data key="d15">EP_P_R04_PASAL_2</data>
+  <data key="d16">R04</data>
+  <data key="d17">P_R04_PASAL_2</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 2</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R04" target="P_R04_PASAL_6_AYAT_2_HURUF_B" id="EP_P_R04_PASAL_6_AYAT_2_HURUF_B">
+  <data key="d15">EP_P_R04_PASAL_6_AYAT_2_HURUF_B</data>
+  <data key="d16">R04</data>
+  <data key="d17">P_R04_PASAL_6_AYAT_2_HURUF_B</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 6 ayat (2) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R04" target="P_R04_PASAL_6_AYAT_3_HURUF_A" id="EP_P_R04_PASAL_6_AYAT_3_HURUF_A">
+  <data key="d15">EP_P_R04_PASAL_6_AYAT_3_HURUF_A</data>
+  <data key="d16">R04</data>
+  <data key="d17">P_R04_PASAL_6_AYAT_3_HURUF_A</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 6 ayat (3) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R04" target="P_R04_PASAL_6_AYAT_6" id="EP_P_R04_PASAL_6_AYAT_6">
+  <data key="d15">EP_P_R04_PASAL_6_AYAT_6</data>
+  <data key="d16">R04</data>
+  <data key="d17">P_R04_PASAL_6_AYAT_6</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 6 ayat (6)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R04" target="P_R04_PASAL_16" id="EP_P_R04_PASAL_16">
+  <data key="d15">EP_P_R04_PASAL_16</data>
+  <data key="d16">R04</data>
+  <data key="d17">P_R04_PASAL_16</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 16</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R04" target="P_R04_PASAL_1_ANGKA_1" id="EP_P_R04_PASAL_1_ANGKA_1">
+  <data key="d15">EP_P_R04_PASAL_1_ANGKA_1</data>
+  <data key="d16">R04</data>
+  <data key="d17">P_R04_PASAL_1_ANGKA_1</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 1 angka 1</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R04" target="P_R04_PASAL_19_AYAT_4" id="EP_P_R04_PASAL_19_AYAT_4">
+  <data key="d15">EP_P_R04_PASAL_19_AYAT_4</data>
+  <data key="d16">R04</data>
+  <data key="d17">P_R04_PASAL_19_AYAT_4</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 19 ayat (4)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R04" target="R02" id="D03">
+  <data key="d15">D03</data>
+  <data key="d16">R04</data>
+  <data key="d17">R02</data>
+  <data key="d18">DOCUMENT_DASAR_PENDELEGASIAN</data>
+  <data key="d19">E1</data>
+  <data key="d20">PP 2/2018 dibentuk untuk melaksanakan UU 23/2014 Pasal 18(3), dalam Menimbang</data>
+  <data key="d21">SUMBER_DOKUMEN</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R05" target="P_R05_PASAL_4_HURUF_A_D" id="EP_P_R05_PASAL_4_HURUF_A_D">
+  <data key="d15">EP_P_R05_PASAL_4_HURUF_A_D</data>
+  <data key="d16">R05</data>
+  <data key="d17">P_R05_PASAL_4_HURUF_A_D</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 4 huruf a-d</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R05" target="P_R05_PASAL_5_AYAT_1_HURUF_A" id="EP_P_R05_PASAL_5_AYAT_1_HURUF_A">
+  <data key="d15">EP_P_R05_PASAL_5_AYAT_1_HURUF_A</data>
+  <data key="d16">R05</data>
+  <data key="d17">P_R05_PASAL_5_AYAT_1_HURUF_A</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 5 ayat (1) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R05" target="P_R05_PASAL_5_AYAT_1_HURUF_B" id="EP_P_R05_PASAL_5_AYAT_1_HURUF_B">
+  <data key="d15">EP_P_R05_PASAL_5_AYAT_1_HURUF_B</data>
+  <data key="d16">R05</data>
+  <data key="d17">P_R05_PASAL_5_AYAT_1_HURUF_B</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 5 ayat (1) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R05" target="P_R05_PASAL_5_AYAT_2" id="EP_P_R05_PASAL_5_AYAT_2">
+  <data key="d15">EP_P_R05_PASAL_5_AYAT_2</data>
+  <data key="d16">R05</data>
+  <data key="d17">P_R05_PASAL_5_AYAT_2</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 5 ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R05" target="P_R05_PASAL_5_AYAT_4" id="EP_P_R05_PASAL_5_AYAT_4">
+  <data key="d15">EP_P_R05_PASAL_5_AYAT_4</data>
+  <data key="d16">R05</data>
+  <data key="d17">P_R05_PASAL_5_AYAT_4</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 5 ayat (4)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R05" target="R04" id="D04">
+  <data key="d15">D04</data>
+  <data key="d16">R05</data>
+  <data key="d17">R04</data>
+  <data key="d18">DOCUMENT_MENGINGAT_DAN_KONTEKS_PENGGANTIAN</data>
+  <data key="d19">E1</data>
+  <data key="d20">Permendagri 59/2021 bagian Mengingat merujuk PP 2/2018; Menimbang menjelaskan penggantian Permendagri 100/2018 yang semula diterbitkan untuk Pasal 16 PP 2/2018.</data>
+  <data key="d21">SUMBER_DOKUMEN</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_1" id="EP_P_R06_PASAL_2_AYAT_1">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_1</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_1</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_3_HURUF_B" id="EP_P_R06_PASAL_2_AYAT_3_HURUF_B">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_3_HURUF_B</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_3_HURUF_B</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (3) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_4_HURUF_A" id="EP_P_R06_PASAL_2_AYAT_4_HURUF_A">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_4_HURUF_A</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_4_HURUF_A</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_3_AYAT_1" id="EP_P_R06_PASAL_3_AYAT_1">
+  <data key="d15">EP_P_R06_PASAL_3_AYAT_1</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_3_AYAT_1</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 3 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_4_AYAT_1" id="EP_P_R06_PASAL_4_AYAT_1">
+  <data key="d15">EP_P_R06_PASAL_4_AYAT_1</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_4_AYAT_1</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 4 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_5_AYAT_1" id="EP_P_R06_PASAL_5_AYAT_1">
+  <data key="d15">EP_P_R06_PASAL_5_AYAT_1</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_5_AYAT_1</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 5 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_5_AYAT_2" id="EP_P_R06_PASAL_5_AYAT_2">
+  <data key="d15">EP_P_R06_PASAL_5_AYAT_2</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_5_AYAT_2</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 5 ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_6" id="EP_P_R06_PASAL_6">
+  <data key="d15">EP_P_R06_PASAL_6</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_6</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 6</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_5" id="EP_P_R06_PASAL_2_AYAT_5">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_5</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_5</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (5)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_6" id="EP_P_R06_PASAL_2_AYAT_6">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_6</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_6</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (6)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_3_HURUF_A" id="EP_P_R06_PASAL_2_AYAT_3_HURUF_A">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_3_HURUF_A</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_3_HURUF_A</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (3) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_4_HURUF_B" id="EP_P_R06_PASAL_2_AYAT_4_HURUF_B">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_4_HURUF_B</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_4_HURUF_B</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_4_HURUF_C" id="EP_P_R06_PASAL_2_AYAT_4_HURUF_C">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_4_HURUF_C</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_4_HURUF_C</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf c</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_4_HURUF_D" id="EP_P_R06_PASAL_2_AYAT_4_HURUF_D">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_4_HURUF_D</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_4_HURUF_D</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf d</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_4_HURUF_E" id="EP_P_R06_PASAL_2_AYAT_4_HURUF_E">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_4_HURUF_E</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_4_HURUF_E</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf e</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_4_HURUF_F" id="EP_P_R06_PASAL_2_AYAT_4_HURUF_F">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_4_HURUF_F</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_4_HURUF_F</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf f</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_4_HURUF_G" id="EP_P_R06_PASAL_2_AYAT_4_HURUF_G">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_4_HURUF_G</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_4_HURUF_G</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf g</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_4_HURUF_H" id="EP_P_R06_PASAL_2_AYAT_4_HURUF_H">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_4_HURUF_H</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_4_HURUF_H</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf h</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_4_HURUF_I" id="EP_P_R06_PASAL_2_AYAT_4_HURUF_I">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_4_HURUF_I</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_4_HURUF_I</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf i</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_4_HURUF_J" id="EP_P_R06_PASAL_2_AYAT_4_HURUF_J">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_4_HURUF_J</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_4_HURUF_J</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf j</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_4_HURUF_K" id="EP_P_R06_PASAL_2_AYAT_4_HURUF_K">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_4_HURUF_K</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_4_HURUF_K</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf k</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="P_R06_PASAL_2_AYAT_4_HURUF_L" id="EP_P_R06_PASAL_2_AYAT_4_HURUF_L">
+  <data key="d15">EP_P_R06_PASAL_2_AYAT_4_HURUF_L</data>
+  <data key="d16">R06</data>
+  <data key="d17">P_R06_PASAL_2_AYAT_4_HURUF_L</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf l</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="R04" id="D05">
+  <data key="d15">D05</data>
+  <data key="d16">R06</data>
+  <data key="d17">R04</data>
+  <data key="d18">DOCUMENT_MENGINGAT_DAN_KONTEKS_PENGGANTIAN</data>
+  <data key="d19">E1</data>
+  <data key="d20">Permenkes 6/2024 bagian Mengingat merujuk PP 2/2018; Menimbang menjelaskan penggantian Permenkes 4/2019 terkait Pasal 6 ayat (6) PP 2/2018.</data>
+  <data key="d21">SUMBER_DOKUMEN</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="R03" id="D07">
+  <data key="d15">D07</data>
+  <data key="d16">R06</data>
+  <data key="d17">R03</data>
+  <data key="d18">DOCUMENT_MENGINGAT</data>
+  <data key="d19">E1</data>
+  <data key="d20">UU 17/2023 tercantum dalam Mengingat Permenkes 6/2024</data>
+  <data key="d21">SUMBER_DOKUMEN</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R06" target="R02" id="D08">
+  <data key="d15">D08</data>
+  <data key="d16">R06</data>
+  <data key="d17">R02</data>
+  <data key="d18">DOCUMENT_MENGINGAT</data>
+  <data key="d19">E1</data>
+  <data key="d20">UU 23/2014 tercantum dalam Mengingat Permenkes 6/2024</data>
+  <data key="d21">SUMBER_DOKUMEN</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R07" target="P_R07_PASAL_21_AYAT_1" id="EP_P_R07_PASAL_21_AYAT_1">
+  <data key="d15">EP_P_R07_PASAL_21_AYAT_1</data>
+  <data key="d16">R07</data>
+  <data key="d17">P_R07_PASAL_21_AYAT_1</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R07" target="P_R07_PASAL_22_AYAT_1" id="EP_P_R07_PASAL_22_AYAT_1">
+  <data key="d15">EP_P_R07_PASAL_22_AYAT_1</data>
+  <data key="d16">R07</data>
+  <data key="d17">P_R07_PASAL_22_AYAT_1</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 22 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R07" target="P_R07_PASAL_21_AYAT_4" id="EP_P_R07_PASAL_21_AYAT_4">
+  <data key="d15">EP_P_R07_PASAL_21_AYAT_4</data>
+  <data key="d16">R07</data>
+  <data key="d17">P_R07_PASAL_21_AYAT_4</data>
+  <data key="d18">HAS_PROVISION</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (4)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="R07" target="R03" id="D06">
+  <data key="d15">D06</data>
+  <data key="d16">R07</data>
+  <data key="d17">R03</data>
+  <data key="d18">DOCUMENT_DASAR_PENDELEGASIAN</data>
+  <data key="d19">E1</data>
+  <data key="d20">Perpres 13/2026 dibuat untuk melaksanakan UU 17/2023 Pasal 21(3) dan Pasal 416, dalam Menimbang</data>
+  <data key="d21">SUMBER_DOKUMEN</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_PROVINSI" target="L01" id="LL01">
+  <data key="d15">LL01</data>
+  <data key="d16">LVL_PROVINSI</data>
+  <data key="d17">L01</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (3) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_PROVINSI" target="L02" id="LL02">
+  <data key="d15">LL02</data>
+  <data key="d16">LVL_PROVINSI</data>
+  <data key="d17">L02</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (3) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_KABUPATEN_KOTA" target="L03" id="LL03">
+  <data key="d15">LL03</data>
+  <data key="d16">LVL_KABUPATEN_KOTA</data>
+  <data key="d17">L03</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_KABUPATEN_KOTA" target="L04" id="LL04">
+  <data key="d15">LL04</data>
+  <data key="d16">LVL_KABUPATEN_KOTA</data>
+  <data key="d17">L04</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_KABUPATEN_KOTA" target="L05" id="LL05">
+  <data key="d15">LL05</data>
+  <data key="d16">LVL_KABUPATEN_KOTA</data>
+  <data key="d17">L05</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf c</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_KABUPATEN_KOTA" target="L06" id="LL06">
+  <data key="d15">LL06</data>
+  <data key="d16">LVL_KABUPATEN_KOTA</data>
+  <data key="d17">L06</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf d</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_KABUPATEN_KOTA" target="L07" id="LL07">
+  <data key="d15">LL07</data>
+  <data key="d16">LVL_KABUPATEN_KOTA</data>
+  <data key="d17">L07</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf e</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_KABUPATEN_KOTA" target="L08" id="LL08">
+  <data key="d15">LL08</data>
+  <data key="d16">LVL_KABUPATEN_KOTA</data>
+  <data key="d17">L08</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf f</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_KABUPATEN_KOTA" target="L09" id="LL09">
+  <data key="d15">LL09</data>
+  <data key="d16">LVL_KABUPATEN_KOTA</data>
+  <data key="d17">L09</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf g</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_KABUPATEN_KOTA" target="L10" id="LL10">
+  <data key="d15">LL10</data>
+  <data key="d16">LVL_KABUPATEN_KOTA</data>
+  <data key="d17">L10</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf h</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_KABUPATEN_KOTA" target="L11" id="LL11">
+  <data key="d15">LL11</data>
+  <data key="d16">LVL_KABUPATEN_KOTA</data>
+  <data key="d17">L11</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf i</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_KABUPATEN_KOTA" target="L12" id="LL12">
+  <data key="d15">LL12</data>
+  <data key="d16">LVL_KABUPATEN_KOTA</data>
+  <data key="d17">L12</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf j</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_KABUPATEN_KOTA" target="L13" id="LL13">
+  <data key="d15">LL13</data>
+  <data key="d16">LVL_KABUPATEN_KOTA</data>
+  <data key="d17">L13</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf k</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="LVL_KABUPATEN_KOTA" target="L14" id="LL14">
+  <data key="d15">LL14</data>
+  <data key="d16">LVL_KABUPATEN_KOTA</data>
+  <data key="d17">L14</data>
+  <data key="d18">HAS_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf l</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N01" target="A_DAERAH_GOV" id="NA_N01_A_DAERAH_GOV">
+  <data key="d15">NA_N01_A_DAERAH_GOV</data>
+  <data key="d16">N01</data>
+  <data key="d17">A_DAERAH_GOV</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18 ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N01" target="N06" id="K01">
+  <data key="d15">K01</data>
+  <data key="d16">N01</data>
+  <data key="d17">N06</data>
+  <data key="d18">RELATED_NORM_KERANGKA_OTONOMI</data>
+  <data key="d19">E3</data>
+  <data key="d20">UUD Pasal 18(2); UU 23 Pasal 12(1)b</data>
+  <data key="d21">TINJAU_AHLI</data>
+  <data key="d22">Kesehatan ditempatkan dalam kerangka otonomi dan urusan pelayanan dasar.</data>
+</edge>
+<edge source="N01" target="S01" id="K23">
+  <data key="d15">K23</data>
+  <data key="d16">N01</data>
+  <data key="d17">S01</data>
+  <data key="d18">RELATED_NORM_KONTEKS_OTONOMI_KONSTITUSI</data>
+  <data key="d19">E2</data>
+  <data key="d20">UUD Pasal 18(2) dan Pasal 18(5)</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Kewenangan mengurus urusan daerah terkait prinsip otonomi seluas-luasnya dengan pengecualian.</data>
+</edge>
+<edge source="P_R01_PASAL_18_AYAT_2" target="N01" id="NP_N01">
+  <data key="d15">NP_N01</data>
+  <data key="d16">P_R01_PASAL_18_AYAT_2</data>
+  <data key="d17">N01</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18 ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N02" target="A_PUSAT" id="NA_N02_A_PUSAT">
+  <data key="d15">NA_N02_A_PUSAT</data>
+  <data key="d16">N02</data>
+  <data key="d17">A_PUSAT</data>
+  <data key="d18">APPLIES_TO</data>
+<data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18A ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N02" target="A_DAERAH_GOV" id="NA_N02_A_DAERAH_GOV">
+  <data key="d15">NA_N02_A_DAERAH_GOV</data>
+  <data key="d16">N02</data>
+  <data key="d17">A_DAERAH_GOV</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18A ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N02" target="N06" id="K02">
+  <data key="d15">K02</data>
+  <data key="d16">N02</data>
+  <data key="d17">N06</data>
+  <data key="d18">RELATED_NORM_KONTEKS_PEMBAGIAN_KEWENANGAN</data>
+  <data key="d19">E3</data>
+  <data key="d20">UUD Pasal 18A(1); UU 23 Pasal 12(1)b</data>
+  <data key="d21">TINJAU_AHLI</data>
+  <data key="d22">Pasal konstitusi mengatur hubungan wewenang secara umum, UU sektor pemerintahan menetapkan kesehatan sebagai urusan wajib.</data>
+</edge>
+<edge source="P_R01_PASAL_18A_AYAT_1" target="N02" id="NP_N02">
+  <data key="d15">NP_N02</data>
+  <data key="d16">P_R01_PASAL_18A_AYAT_1</data>
+  <data key="d17">N02</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18A ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N03" target="A_PUSAT" id="NA_N03_A_PUSAT">
+  <data key="d15">NA_N03_A_PUSAT</data>
+  <data key="d16">N03</data>
+  <data key="d17">A_PUSAT</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18A ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N03" target="A_DAERAH_GOV" id="NA_N03_A_DAERAH_GOV">
+  <data key="d15">NA_N03_A_DAERAH_GOV</data>
+  <data key="d16">N03</data>
+  <data key="d17">A_DAERAH_GOV</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18A ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R01_PASAL_18A_AYAT_2" target="N03" id="NP_N03">
+  <data key="d15">NP_N03</data>
+  <data key="d16">P_R01_PASAL_18A_AYAT_2</data>
+  <data key="d17">N03</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18A ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N04" target="A_SETIAP_ORANG" id="NA_N04_A_SETIAP_ORANG">
+  <data key="d15">NA_N04_A_SETIAP_ORANG</data>
+  <data key="d16">N04</data>
+  <data key="d17">A_SETIAP_ORANG</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 28H ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N04" target="S07" id="K03">
+  <data key="d15">K03</data>
+  <data key="d16">N04</data>
+  <data key="d17">S07</data>
+  <data key="d18">RELATED_NORM_HAK_DAN_TANGGUNG_JAWAB</data>
+  <data key="d19">E3</data>
+  <data key="d20">UUD Pasal 28H(1); UU 17 Pasal 19(1)</data>
+  <data key="d21">TINJAU_AHLI</data>
+  <data key="d22">Hak konstitusional atas kesehatan memiliki keterkaitan konseptual dengan tanggung jawab penyelenggaraan upaya kesehatan.</data>
+</edge>
+<edge source="P_R01_PASAL_28H_AYAT_1" target="N04" id="NP_N04">
+  <data key="d15">NP_N04</data>
+  <data key="d16">P_R01_PASAL_28H_AYAT_1</data>
+  <data key="d17">N04</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 28H ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N05" target="A_NEGARA" id="NA_N05_A_NEGARA">
+  <data key="d15">NA_N05_A_NEGARA</data>
+  <data key="d16">N05</data>
+  <data key="d17">A_NEGARA</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 34 ayat (3)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N05" target="S07" id="K04">
+  <data key="d15">K04</data>
+  <data key="d16">N05</data>
+  <data key="d17">S07</data>
+  <data key="d18">RELATED_NORM_PRINSIP_TANGGUNG_JAWAB_NEGARA</data>
+  <data key="d19">E3</data>
+  <data key="d20">UUD Pasal 34(3); UU 17 Pasal 19(1)</data>
+  <data key="d21">TINJAU_AHLI</data>
+  <data key="d22">Penyediaan fasilitas yang layak dan tanggung jawab penyelenggaraan upaya kesehatan berkaitan secara normatif.</data>
+</edge>
+<edge source="P_R01_PASAL_34_AYAT_3" target="N05" id="NP_N05">
+  <data key="d15">NP_N05</data>
+  <data key="d16">P_R01_PASAL_34_AYAT_3</data>
+  <data key="d17">N05</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 34 ayat (3)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N06" target="N07a" id="K05">
+  <data key="d15">K05</data>
+  <data key="d16">N06</data>
+  <data key="d17">N07a</data>
+  <data key="d18">RELATED_NORM_URUSAN_MENJADI_PRIORITAS</data>
+  <data key="d19">E2</data>
+  <data key="d20">UU 23 Pasal 12(1)b dan Pasal 18(1)</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Urusan kesehatan termasuk jenis urusan yang diprioritaskan oleh penyelenggara daerah.</data>
+</edge>
+<edge source="P_R02_PASAL_12_AYAT_1_HURUF_B" target="N06" id="NP_N06">
+  <data key="d15">NP_N06</data>
+  <data key="d16">P_R02_PASAL_12_AYAT_1_HURUF_B</data>
+  <data key="d17">N06</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R02 Pasal 12 ayat (1) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N07a" target="A_PENYELENGGARA_DAERAH" id="NA_N07a_A_PENYELENGGARA_DAERAH">
+  <data key="d15">NA_N07a_A_PENYELENGGARA_DAERAH</data>
+  <data key="d16">N07a</data>
+  <data key="d17">A_PENYELENGGARA_DAERAH</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R02 Pasal 18 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N07a" target="N07b" id="X04">
+  <data key="d15">X04</data>
+  <data key="d16">N07a</data>
+  <data key="d17">N07b</data>
+  <data key="d18">RELATED_NORM_PRIORITAS_DAN_PEDOMAN_SPM</data>
+  <data key="d19">E2</data>
+  <data key="d20">UU 23/2014 Pasal 18 ayat (1)-(2)</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Dua ayat berdekatan menunjukkan prioritas pelayanan dasar dan standar yang dipakai.</data>
+</edge>
+<edge source="P_R02_PASAL_18_AYAT_1" target="N07a" id="NP_N07a">
+  <data key="d15">NP_N07a</data>
+  <data key="d16">P_R02_PASAL_18_AYAT_1</data>
+  <data key="d17">N07a</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R02 Pasal 18 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N07b" target="A_PENYELENGGARA_DAERAH" id="NA_N07b_A_PENYELENGGARA_DAERAH">
+  <data key="d15">NA_N07b_A_PENYELENGGARA_DAERAH</data>
+  <data key="d16">N07b</data>
+  <data key="d17">A_PENYELENGGARA_DAERAH</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R02 Pasal 18 ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N07b" target="N13" id="K06">
+  <data key="d15">K06</data>
+  <data key="d16">N07b</data>
+  <data key="d17">N13</data>
+  <data key="d18">RELATED_NORM_KERANGKA_STANDAR_SPM</data>
+  <data key="d19">E2</data>
+  <data key="d20">UU 23 Pasal 18(2); PP 2 Pasal 2</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Penerapan SPM sebagai pedoman pelayanan dasar memiliki prinsip kesesuaian kewenangan dan lainnya.</data>
+</edge>
+<edge source="N07b" target="S02" id="K07">
+  <data key="d15">K07</data>
+  <data key="d16">N07b</data>
+  <data key="d17">S02</data>
+  <data key="d18">RELATED_NORM_DELEGASI_KETENTUAN_LANJUT</data>
+  <data key="d19">E2</data>
+  <data key="d20">UU 23 Pasal 18(3) merujuk pengaturan lebih lanjut tentang SPM</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Pasal 18 ayat (3) mendelegasikan pengaturan lebih lanjut ke peraturan pemerintah, berkaitan dengan ketentuan ayat (2).</data>
+</edge>
+<edge source="P_R02_PASAL_18_AYAT_2" target="N07b" id="NP_N07b">
+  <data key="d15">NP_N07b</data>
+  <data key="d16">P_R02_PASAL_18_AYAT_2</data>
+  <data key="d17">N07b</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R02 Pasal 18 ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N08a" target="A_PEMDA_UMUM" id="NA_N08a_A_PEMDA_UMUM">
+  <data key="d15">NA_N08a_A_PEMDA_UMUM</data>
+  <data key="d16">N08a</data>
+  <data key="d17">A_PEMDA_UMUM</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 15</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R03_PASAL_15" target="N08a" id="NP_N08a">
+  <data key="d15">NP_N08a</data>
+  <data key="d16">P_R03_PASAL_15</data>
+  <data key="d17">N08a</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 15</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R03_PASAL_15" target="N08b" id="NP_N08b">
+  <data key="d15">NP_N08b</data>
+  <data key="d16">P_R03_PASAL_15</data>
+  <data key="d17">N08b</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 15</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N08b" target="A_PEMDA_UMUM" id="NA_N08b_A_PEMDA_UMUM">
+  <data key="d15">NA_N08b_A_PEMDA_UMUM</data>
+  <data key="d16">N08b</data>
+  <data key="d17">A_PEMDA_UMUM</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 15</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N08b" target="N09" id="K08">
+  <data key="d15">K08</data>
+  <data key="d16">N08b</data>
+  <data key="d17">N09</data>
+  <data key="d18">RELATED_NORM_NSPK_DAN_STANDAR_PUSAT</data>
+  <data key="d19">E2</data>
+  <data key="d20">UU 17 Pasal 15; Pasal 19(2)e</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Daerah mengikuti NSPK yang ditetapkan pusat; pusat juga menetapkan standar pelayanan kesehatan (jenis standar harus dibedakan).</data>
+</edge>
+<edge source="N09" target="A_PUSAT" id="NA_N09_A_PUSAT">
+  <data key="d15">NA_N09_A_PUSAT</data>
+  <data key="d16">N09</data>
+  <data key="d17">A_PUSAT</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 19 ayat (2) huruf e</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R03_PASAL_19_AYAT_2_HURUF_E" target="N09" id="NP_N09">
+  <data key="d15">NP_N09</data>
+  <data key="d16">P_R03_PASAL_19_AYAT_2_HURUF_E</data>
+  <data key="d17">N09</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 19 ayat (2) huruf e</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N10" target="A_PEMDA_UMUM" id="NA_N10_A_PEMDA_UMUM">
+  <data key="d15">NA_N10_A_PEMDA_UMUM</data>
+  <data key="d16">N10</data>
+  <data key="d17">A_PEMDA_UMUM</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 19 ayat (3) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N10" target="N18" id="X03">
+  <data key="d15">X03</data>
+  <data key="d16">N10</data>
+  <data key="d17">N18</data>
+  <data key="d18">RELATED_NORM_UMUM_KE_KHUSUS_SPM</data>
+  <data key="d19">E3</data>
+  <data key="d20">UU 17/2023 Pasal 19 ayat (3)b; Permenkes 6/2024 Pasal 2 ayat (1)</data>
+  <data key="d21">TINJAU_AHLI</data>
+  <data key="d22">Hubungan fungsi pengelolaan program kesehatan daerah dengan kewajiban menerapkan SPM merupakan interpretasi lintas regulasi.</data>
+</edge>
+<edge source="P_R03_PASAL_19_AYAT_3_HURUF_B" target="N10" id="NP_N10">
+  <data key="d15">NP_N10</data>
+  <data key="d16">P_R03_PASAL_19_AYAT_3_HURUF_B</data>
+  <data key="d17">N10</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 19 ayat (3) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N11a" target="A_PUSAT" id="NA_N11a_A_PUSAT">
+  <data key="d15">NA_N11a_A_PUSAT</data>
+  <data key="d16">N11a</data>
+  <data key="d17">A_PUSAT</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N11a" target="A_PROV" id="NA_N11a_A_PROV">
+  <data key="d15">NA_N11a_A_PROV</data>
+  <data key="d16">N11a</data>
+  <data key="d17">A_PROV</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N11a" target="A_KABKOTA" id="NA_N11a_A_KABKOTA">
+  <data key="d15">NA_N11a_A_KABKOTA</data>
+  <data key="d16">N11a</data>
+  <data key="d17">A_KABKOTA</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N11a" target="A_DESA" id="NA_N11a_A_DESA">
+  <data key="d15">NA_N11a_A_DESA</data>
+  <data key="d16">N11a</data>
+  <data key="d17">A_DESA</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N11a" target="N12" id="K18">
+  <data key="d15">K18</data>
+  <data key="d16">N11a</data>
+  <data key="d17">N12</data>
+  <data key="d18">RELATED_NORM_RUJUKAN_TANGGUNG_JAWAB</data>
+  <data key="d19">E1</data>
+  <data key="d20">Perpres 13 Pasal 22(1) merujuk Pasal 21</data>
+  <data key="d21">RUJUKAN_TEKSTUAL_TERVERIFIKASI</data>
+  <data key="d22">Pasal 22 secara eksplisit mengacu pada pelaksanaan tanggung jawab yang disebut Pasal 21.</data>
+</edge>
+<edge source="N11a" target="N18" id="K19">
+  <data key="d15">K19</data>
+  <data key="d16">N11a</data>
+  <data key="d17">N18</data>
+  <data key="d18">RELATED_NORM_UMUM_KE_KHUSUS_SPM</data>
+  <data key="d19">E3</data>
+  <data key="d20">Perpres 13 Pasal 21(1); Permenkes 6 Pasal 2(1)</data>
+  <data key="d21">TINJAU_AHLI</data>
+  <data key="d22">Pengelolaan kesehatan empat tingkat tidak boleh dianggap identik dengan penerapan SPM dua tingkat pemerintah daerah.</data>
+</edge>
+<edge source="P_R07_PASAL_21_AYAT_1" target="N11a" id="NP_N11a">
+  <data key="d15">NP_N11a</data>
+  <data key="d16">P_R07_PASAL_21_AYAT_1</data>
+  <data key="d17">N11a</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R07_PASAL_21_AYAT_1" target="N11b" id="NP_N11b">
+  <data key="d15">NP_N11b</data>
+  <data key="d16">P_R07_PASAL_21_AYAT_1</data>
+  <data key="d17">N11b</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N11b" target="A_PUSAT" id="NA_N11b_A_PUSAT">
+  <data key="d15">NA_N11b_A_PUSAT</data>
+  <data key="d16">N11b</data>
+  <data key="d17">A_PUSAT</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N11b" target="A_PROV" id="NA_N11b_A_PROV">
+  <data key="d15">NA_N11b_A_PROV</data>
+  <data key="d16">N11b</data>
+  <data key="d17">A_PROV</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N11b" target="A_KABKOTA" id="NA_N11b_A_KABKOTA">
+  <data key="d15">NA_N11b_A_KABKOTA</data>
+  <data key="d16">N11b</data>
+  <data key="d17">A_KABKOTA</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N11b" target="A_DESA" id="NA_N11b_A_DESA">
+  <data key="d15">NA_N11b_A_DESA</data>
+  <data key="d16">N11b</data>
+  <data key="d17">A_DESA</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N12" target="A_PUSAT" id="NA_N12_A_PUSAT">
+  <data key="d15">NA_N12_A_PUSAT</data>
+  <data key="d16">N12</data>
+  <data key="d17">A_PUSAT</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 22 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N12" target="A_PROV" id="NA_N12_A_PROV">
+  <data key="d15">NA_N12_A_PROV</data>
+  <data key="d16">N12</data>
+  <data key="d17">A_PROV</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 22 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N12" target="A_KABKOTA" id="NA_N12_A_KABKOTA">
+  <data key="d15">NA_N12_A_KABKOTA</data>
+  <data key="d16">N12</data>
+  <data key="d17">A_KABKOTA</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 22 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N12" target="S06" id="K22">
+  <data key="d15">K22</data>
+  <data key="d16">N12</data>
+  <data key="d17">S06</data>
+  <data key="d18">RELATED_NORM_MUTU_DAN_SUMBER_DAYA</data>
+  <data key="d19">E2</data>
+  <data key="d20">Perpres 13 Pasal 22(1) dan Pasal 21(4)</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Pemerataan mutu pelayanan terkait tanggung jawab penyediaan sumber daya daerah.</data>
+</edge>
+<edge source="P_R07_PASAL_22_AYAT_1" target="N12" id="NP_N12">
+  <data key="d15">NP_N12</data>
+  <data key="d16">P_R07_PASAL_22_AYAT_1</data>
+  <data key="d17">N12</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 22 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N13" target="N18" id="X05">
+  <data key="d15">X05</data>
+  <data key="d16">N13</data>
+  <data key="d17">N18</data>
+  <data key="d18">RELATED_NORM_PRINSIP_DAN_KEWAJIBAN_SPM_KESEHATAN</data>
+  <data key="d19">E2</data>
+  <data key="d20">PP 2/2018 Pasal 2; Permenkes 6/2024 Pasal 2 ayat (1)</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Prinsip penerapan umum dibandingkan kewajiban penerapan SPM bidang kesehatan.</data>
+</edge>
+<edge source="P_R04_PASAL_2" target="N13" id="NP_N13">
+  <data key="d15">NP_N13</data>
+  <data key="d16">P_R04_PASAL_2</data>
+  <data key="d17">N13</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 2</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N14" target="LVL_PROVINSI" id="SC_N14">
+  <data key="d15">SC_N14</data>
+  <data key="d16">N14</data>
+  <data key="d17">LVL_PROVINSI</data>
+  <data key="d18">CLASSIFIES_SPM_LEVEL</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 6 ayat (2) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N14" target="L02" id="NS_N14">
+  <data key="d15">NS_N14</data>
+  <data key="d16">N14</data>
+  <data key="d17">L02</data>
+  <data key="d18">CLASSIFIES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">Pasal 6 ayat (2) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N14" target="N19" id="K09">
+  <data key="d15">K09</data>
+  <data key="d16">N14</data>
+  <data key="d17">N19</data>
+  <data key="d18">RELATED_NORM_KESAMAAN_JENIS_LAYANAN</data>
+  <data key="d19">E2</data>
+  <data key="d20">PP 2 Pasal 6(2)b; Permenkes 6 Pasal 2(3)b</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Keduanya menggolongkan KLB tingkat provinsi sebagai jenis SPM Kesehatan provinsi.</data>
+</edge>
+<edge source="P_R04_PASAL_6_AYAT_2_HURUF_B" target="N14" id="NP_N14">
+  <data key="d15">NP_N14</data>
+  <data key="d16">P_R04_PASAL_6_AYAT_2_HURUF_B</data>
+  <data key="d17">N14</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 6 ayat (2) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N15" target="LVL_KABUPATEN_KOTA" id="SC_N15">
+  <data key="d15">SC_N15</data>
+  <data key="d16">N15</data>
+  <data key="d17">LVL_KABUPATEN_KOTA</data>
+  <data key="d18">CLASSIFIES_SPM_LEVEL</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 6 ayat (3) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N15" target="L03" id="NS_N15">
+  <data key="d15">NS_N15</data>
+  <data key="d16">N15</data>
+  <data key="d17">L03</data>
+  <data key="d18">CLASSIFIES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">Pasal 6 ayat (3) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N15" target="N20" id="K10">
+  <data key="d15">K10</data>
+  <data key="d16">N15</data>
+  <data key="d17">N20</data>
+  <data key="d18">RELATED_NORM_KESAMAAN_JENIS_LAYANAN</data>
+  <data key="d19">E2</data>
+  <data key="d20">PP 2 Pasal 6(3)a; Permenkes 6 Pasal 2(4)a</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Keduanya menggolongkan layanan ibu hamil sebagai SPM Kesehatan kabupaten/kota.</data>
+</edge>
+<edge source="N15" target="N18" id="K24">
+  <data key="d15">K24</data>
+  <data key="d16">N15</data>
+  <data key="d17">N18</data>
+  <data key="d18">RELATED_NORM_LANDASAN_JENIS_DAN_KEWAJIBAN</data>
+  <data key="d19">E2</data>
+  <data key="d20">PP 2 Pasal 6(3)a; Permenkes 6 Pasal 2(1)</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Jenis SPM kabupaten/kota dipadukan dengan kewajiban implementasi daerah.</data>
+</edge>
+<edge source="P_R04_PASAL_6_AYAT_3_HURUF_A" target="N15" id="NP_N15">
+  <data key="d15">NP_N15</data>
+  <data key="d16">P_R04_PASAL_6_AYAT_3_HURUF_A</data>
+  <data key="d17">N15</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 6 ayat (3) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N16" target="N17a" id="K11">
+  <data key="d15">K11</data>
+  <data key="d16">N16</data>
+  <data key="d17">N17a</data>
+  <data key="d18">RELATED_NORM_TAHAPAN_PENDATAAN</data>
+  <data key="d19">E1</data>
+  <data key="d20">Permendagri 59 Pasal 5(1) merujuk Pasal 4 huruf a</data>
+  <data key="d21">RUJUKAN_TEKSTUAL_TERVERIFIKASI</data>
+  <data key="d22">Pasal 5 menyatakan pengumpulan data sebagaimana dimaksud pada Pasal 4 huruf a.</data>
+</edge>
+<edge source="N16" target="N17b" id="K12">
+  <data key="d15">K12</data>
+  <data key="d16">N16</data>
+  <data key="d17">N17b</data>
+  <data key="d18">RELATED_NORM_TAHAPAN_PENDATAAN</data>
+  <data key="d19">E1</data>
+  <data key="d20">Permendagri 59 Pasal 5(1) merujuk Pasal 4 huruf a</data>
+  <data key="d21">RUJUKAN_TEKSTUAL_TERVERIFIKASI</data>
+  <data key="d22">Data sarana, barang, dan jasa termasuk pelaksanaan tahap pengumpulan data.</data>
+</edge>
+<edge source="P_R05_PASAL_4_HURUF_A_D" target="N16" id="NP_N16">
+  <data key="d15">NP_N16</data>
+  <data key="d16">P_R05_PASAL_4_HURUF_A_D</data>
+  <data key="d17">N16</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 4 huruf a-d</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N17a" target="A_PERANGKAT" id="NA_N17a_A_PERANGKAT">
+  <data key="d15">NA_N17a_A_PERANGKAT</data>
+  <data key="d16">N17a</data>
+  <data key="d17">A_PERANGKAT</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 5 ayat (1) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N17a" target="S08" id="K13">
+  <data key="d15">K13</data>
+  <data key="d16">N17a</data>
+  <data key="d17">S08</data>
+  <data key="d18">RELATED_NORM_DATA_DAN_INTEGRASI_SIPD</data>
+  <data key="d19">E1</data>
+  <data key="d20">Permendagri 59 Pasal 5(4) merujuk Pasal 5(1)</data>
+  <data key="d21">RUJUKAN_TEKSTUAL_TERVERIFIKASI</data>
+  <data key="d22">Pasal 5(4) mengharuskan hasil pengumpulan data diintegrasikan dengan SIPD.</data>
+</edge>
+<edge source="P_R05_PASAL_5_AYAT_1_HURUF_A" target="N17a" id="NP_N17a">
+  <data key="d15">NP_N17a</data>
+  <data key="d16">P_R05_PASAL_5_AYAT_1_HURUF_A</data>
+  <data key="d17">N17a</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 5 ayat (1) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N17b" target="A_PERANGKAT" id="NA_N17b_A_PERANGKAT">
+  <data key="d15">NA_N17b_A_PERANGKAT</data>
+  <data key="d16">N17b</data>
+  <data key="d17">A_PERANGKAT</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 5 ayat (1) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R05_PASAL_5_AYAT_1_HURUF_B" target="N17b" id="NP_N17b">
+  <data key="d15">NP_N17b</data>
+  <data key="d16">P_R05_PASAL_5_AYAT_1_HURUF_B</data>
+  <data key="d17">N17b</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 5 ayat (1) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N17c" target="A_PERANGKAT" id="NA_N17c_A_PERANGKAT">
+  <data key="d15">NA_N17c_A_PERANGKAT</data>
+  <data key="d16">N17c</data>
+  <data key="d17">A_PERANGKAT</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 5 ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R05_PASAL_5_AYAT_2" target="N17c" id="NP_N17c">
+  <data key="d15">NP_N17c</data>
+  <data key="d16">P_R05_PASAL_5_AYAT_2</data>
+  <data key="d17">N17c</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 5 ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N18" target="A_PROV" id="NA_N18_A_PROV">
+  <data key="d15">NA_N18_A_PROV</data>
+  <data key="d16">N18</data>
+  <data key="d17">A_PROV</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N18" target="A_KABKOTA" id="NA_N18_A_KABKOTA">
+  <data key="d15">NA_N18_A_KABKOTA</data>
+  <data key="d16">N18</data>
+  <data key="d17">A_KABKOTA</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N18" target="N21" id="K14">
+  <data key="d15">K14</data>
+  <data key="d16">N18</data>
+  <data key="d17">N21</data>
+  <data key="d18">RELATED_NORM_TERAPKAN_DAN_PENUHI_MUTU</data>
+  <data key="d19">E2</data>
+  <data key="d20">Permenkes 6 Pasal 2(1) dan Pasal 3(1)</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Dua kewajiban yang berbeda tetapi saling melengkapi pada pemerintah daerah.</data>
+</edge>
+<edge source="N18" target="N19" id="K15">
+  <data key="d15">K15</data>
+  <data key="d16">N18</data>
+  <data key="d17">N19</data>
+  <data key="d18">RELATED_NORM_KEWAJIBAN_DAN_JENIS_SPM_PROV</data>
+  <data key="d19">E2</data>
+  <data key="d20">Permenkes 6 Pasal 2(1) dan Pasal 2(3)b</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Kewajiban menerapkan SPM dikaitkan dengan klasifikasi jenis pelayanan provinsi.</data>
+</edge>
+<edge source="N18" target="N20" id="K16">
+  <data key="d15">K16</data>
+  <data key="d16">N18</data>
+  <data key="d17">N20</data>
+  <data key="d18">RELATED_NORM_KEWAJIBAN_DAN_JENIS_SPM_KABKOTA</data>
+  <data key="d19">E2</data>
+  <data key="d20">Permenkes 6 Pasal 2(1) dan Pasal 2(4)a</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Kewajiban menerapkan SPM dikaitkan dengan klasifikasi pelayanan ibu hamil kabupaten/kota.</data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_1" target="N18" id="NP_N18">
+  <data key="d15">NP_N18</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_1</data>
+  <data key="d17">N18</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N19" target="LVL_PROVINSI" id="SC_N19">
+  <data key="d15">SC_N19</data>
+  <data key="d16">N19</data>
+  <data key="d17">LVL_PROVINSI</data>
+  <data key="d18">CLASSIFIES_SPM_LEVEL</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (3) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N19" target="L02" id="NS_N19">
+  <data key="d15">NS_N19</data>
+  <data key="d16">N19</data>
+  <data key="d17">L02</data>
+  <data key="d18">CLASSIFIES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">Pasal 2 ayat (3) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_3_HURUF_B" target="N19" id="NP_N19">
+  <data key="d15">NP_N19</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_3_HURUF_B</data>
+  <data key="d17">N19</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (3) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_3_HURUF_B" target="L02" id="EV_L02">
+  <data key="d15">EV_L02</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_3_HURUF_B</data>
+  <data key="d17">L02</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (3) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N20" target="LVL_KABUPATEN_KOTA" id="SC_N20">
+  <data key="d15">SC_N20</data>
+  <data key="d16">N20</data>
+  <data key="d17">LVL_KABUPATEN_KOTA</data>
+  <data key="d18">CLASSIFIES_SPM_LEVEL</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N20" target="L03" id="NS_N20">
+  <data key="d15">NS_N20</data>
+  <data key="d16">N20</data>
+  <data key="d17">L03</data>
+  <data key="d18">CLASSIFIES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">Pasal 2 ayat (4) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_4_HURUF_A" target="N20" id="NP_N20">
+  <data key="d15">NP_N20</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_4_HURUF_A</data>
+  <data key="d17">N20</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_4_HURUF_A" target="L03" id="EV_L03">
+  <data key="d15">EV_L03</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_4_HURUF_A</data>
+  <data key="d17">L03</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N21" target="A_PROV" id="NA_N21_A_PROV">
+  <data key="d15">NA_N21_A_PROV</data>
+  <data key="d16">N21</data>
+  <data key="d17">A_PROV</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 3 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N21" target="A_KABKOTA" id="NA_N21_A_KABKOTA">
+  <data key="d15">NA_N21_A_KABKOTA</data>
+  <data key="d16">N21</data>
+  <data key="d17">A_KABKOTA</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 3 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_3_AYAT_1" target="N21" id="NP_N21">
+  <data key="d15">NP_N21</data>
+  <data key="d16">P_R06_PASAL_3_AYAT_1</data>
+  <data key="d17">N21</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 3 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_4_AYAT_1" target="N22" id="NP_N22">
+  <data key="d15">NP_N22</data>
+  <data key="d16">P_R06_PASAL_4_AYAT_1</data>
+  <data key="d17">N22</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 4 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N23a" target="A_GUBERNUR" id="NA_N23a_A_GUBERNUR">
+  <data key="d15">NA_N23a_A_GUBERNUR</data>
+  <data key="d16">N23a</data>
+  <data key="d17">A_GUBERNUR</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 5 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N23a" target="A_BUPATI_WALIKOTA" id="NA_N23a_A_BUPATI_WALIKOTA">
+  <data key="d15">NA_N23a_A_BUPATI_WALIKOTA</data>
+  <data key="d16">N23a</data>
+  <data key="d17">A_BUPATI_WALIKOTA</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 5 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N23a" target="N23b" id="K17">
+  <data key="d15">K17</data>
+  <data key="d16">N23a</data>
+  <data key="d17">N23b</data>
+  <data key="d18">RELATED_NORM_MEKANISME_PELAPORAN</data>
+  <data key="d19">E1</data>
+  <data key="d20">Permenkes 6 Pasal 5(2) merujuk Pasal 5(1)</data>
+  <data key="d21">RUJUKAN_TEKSTUAL_TERVERIFIKASI</data>
+  <data key="d22">Ayat 2 secara eksplisit merujuk pelaporan ayat 1.</data>
+</edge>
+<edge source="P_R06_PASAL_5_AYAT_1" target="N23a" id="NP_N23a">
+  <data key="d15">NP_N23a</data>
+  <data key="d16">P_R06_PASAL_5_AYAT_1</data>
+  <data key="d17">N23a</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 5 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N23b" target="A_GUBERNUR" id="NA_N23b_A_GUBERNUR">
+  <data key="d15">NA_N23b_A_GUBERNUR</data>
+  <data key="d16">N23b</data>
+  <data key="d17">A_GUBERNUR</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 5 ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="N23b" target="A_BUPATI_WALIKOTA" id="NA_N23b_A_BUPATI_WALIKOTA">
+  <data key="d15">NA_N23b_A_BUPATI_WALIKOTA</data>
+  <data key="d16">N23b</data>
+  <data key="d17">A_BUPATI_WALIKOTA</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 5 ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_5_AYAT_2" target="N23b" id="NP_N23b">
+  <data key="d15">NP_N23b</data>
+  <data key="d16">P_R06_PASAL_5_AYAT_2</data>
+  <data key="d17">N23b</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 5 ayat (2)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S01" target="A_DAERAH_GOV" id="NA_S01_A_DAERAH_GOV">
+  <data key="d15">NA_S01_A_DAERAH_GOV</data>
+  <data key="d16">S01</data>
+  <data key="d17">A_DAERAH_GOV</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18 ayat (5)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R01_PASAL_18_AYAT_5" target="S01" id="NP_S01">
+  <data key="d15">NP_S01</data>
+  <data key="d16">P_R01_PASAL_18_AYAT_5</data>
+  <data key="d17">S01</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R01 Pasal 18 ayat (5)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R02_PASAL_18_AYAT_3" target="S02" id="NP_S02">
+  <data key="d15">NP_S02</data>
+  <data key="d16">P_R02_PASAL_18_AYAT_3</data>
+  <data key="d17">S02</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R02 Pasal 18 ayat (3)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S03" target="A_MENKES" id="NA_S03_A_MENKES">
+  <data key="d15">NA_S03_A_MENKES</data>
+  <data key="d16">S03</data>
+  <data key="d17">A_MENKES</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 6 ayat (6)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S03" target="N21" id="K20">
+  <data key="d15">K20</data>
+  <data key="d16">S03</data>
+  <data key="d17">N21</data>
+  <data key="d18">RELATED_NORM_DASAR_STANDAR_TEKNIS</data>
+  <data key="d19">E2</data>
+  <data key="d20">PP 2 Pasal 6(6); Permenkes 6 Pasal 3(1)</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Delegasi standar teknis terkait pemenuhan mutu dalam Permenkes.</data>
+</edge>
+<edge source="P_R04_PASAL_6_AYAT_6" target="S03" id="NP_S03">
+  <data key="d15">NP_S03</data>
+  <data key="d16">P_R04_PASAL_6_AYAT_6</data>
+  <data key="d17">S03</data>
+  <data key="d18">STATES_NORM</data>
+<data key="d19">E1</data>
+  <data key="d20">R04 Pasal 6 ayat (6)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S04" target="A_MENDAGRI" id="NA_S04_A_MENDAGRI">
+  <data key="d15">NA_S04_A_MENDAGRI</data>
+  <data key="d16">S04</data>
+  <data key="d17">A_MENDAGRI</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 16</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S04" target="N16" id="K21">
+  <data key="d15">K21</data>
+  <data key="d16">S04</data>
+  <data key="d17">N16</data>
+  <data key="d18">RELATED_NORM_DASAR_TAHAPAN_PENERAPAN</data>
+  <data key="d19">E2</data>
+  <data key="d20">PP 2 Pasal 16; Permendagri 59 Pasal 4</data>
+  <data key="d21">PERLU_KONFIRMASI_KONTEKS</data>
+  <data key="d22">Delegasi penerapan SPM melandasi aturan tahapan Permendagri.</data>
+</edge>
+<edge source="P_R04_PASAL_16" target="S04" id="NP_S04">
+  <data key="d15">NP_S04</data>
+  <data key="d16">P_R04_PASAL_16</data>
+  <data key="d17">S04</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 16</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S05" target="A_MENKES" id="NA_S05_A_MENKES">
+  <data key="d15">NA_S05_A_MENKES</data>
+  <data key="d16">S05</data>
+  <data key="d17">A_MENKES</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 6</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S05" target="A_GUBERNUR" id="NA_S05_A_GUBERNUR">
+  <data key="d15">NA_S05_A_GUBERNUR</data>
+  <data key="d16">S05</data>
+  <data key="d17">A_GUBERNUR</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 6</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S05" target="A_BUPATI_WALIKOTA" id="NA_S05_A_BUPATI_WALIKOTA">
+  <data key="d15">NA_S05_A_BUPATI_WALIKOTA</data>
+  <data key="d16">S05</data>
+  <data key="d17">A_BUPATI_WALIKOTA</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 6</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_6" target="S05" id="NP_S05">
+  <data key="d15">NP_S05</data>
+  <data key="d16">P_R06_PASAL_6</data>
+  <data key="d17">S05</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 6</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S06" target="A_PROV" id="NA_S06_A_PROV">
+  <data key="d15">NA_S06_A_PROV</data>
+  <data key="d16">S06</data>
+  <data key="d17">A_PROV</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (4)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S06" target="A_KABKOTA" id="NA_S06_A_KABKOTA">
+  <data key="d15">NA_S06_A_KABKOTA</data>
+  <data key="d16">S06</data>
+  <data key="d17">A_KABKOTA</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (4)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R07_PASAL_21_AYAT_4" target="S06" id="NP_S06">
+  <data key="d15">NP_S06</data>
+  <data key="d16">P_R07_PASAL_21_AYAT_4</data>
+  <data key="d17">S06</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R07 Pasal 21 ayat (4)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S07" target="A_PUSAT" id="NA_S07_A_PUSAT">
+  <data key="d15">NA_S07_A_PUSAT</data>
+  <data key="d16">S07</data>
+  <data key="d17">A_PUSAT</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 19 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S07" target="A_PEMDA_UMUM" id="NA_S07_A_PEMDA_UMUM">
+  <data key="d15">NA_S07_A_PEMDA_UMUM</data>
+  <data key="d16">S07</data>
+  <data key="d17">A_PEMDA_UMUM</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 19 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S07" target="N10" id="X01">
+  <data key="d15">X01</data>
+  <data key="d16">S07</data>
+  <data key="d17">N10</data>
+  <data key="d18">RELATED_NORM_RUJUKAN_TANGGUNG_JAWAB_PROGRAM</data>
+  <data key="d19">E1</data>
+  <data key="d20">UU 17/2023 Pasal 19 ayat (3) huruf b dan ayat (1)</data>
+  <data key="d21">RUJUKAN_TEKSTUAL_TERVERIFIKASI</data>
+  <data key="d22">Ayat (3) secara eksplisit mengacu pada tanggung jawab sebagaimana ayat (1).</data>
+</edge>
+<edge source="S07" target="N09" id="X02">
+  <data key="d15">X02</data>
+  <data key="d16">S07</data>
+  <data key="d17">N09</data>
+  <data key="d18">RELATED_NORM_RUJUKAN_TANGGUNG_JAWAB_STANDAR</data>
+  <data key="d19">E1</data>
+  <data key="d20">UU 17/2023 Pasal 19 ayat (2) huruf e dan ayat (1)</data>
+  <data key="d21">RUJUKAN_TEKSTUAL_TERVERIFIKASI</data>
+  <data key="d22">Ayat (2) secara eksplisit mengacu pada tanggung jawab sebagaimana ayat (1).</data>
+</edge>
+<edge source="P_R03_PASAL_19_AYAT_1" target="S07" id="NP_S07">
+  <data key="d15">NP_S07</data>
+  <data key="d16">P_R03_PASAL_19_AYAT_1</data>
+  <data key="d17">S07</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R03 Pasal 19 ayat (1)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S08" target="A_PERANGKAT" id="NA_S08_A_PERANGKAT">
+  <data key="d15">NA_S08_A_PERANGKAT</data>
+  <data key="d16">S08</data>
+  <data key="d17">A_PERANGKAT</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 5 ayat (4)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R05_PASAL_5_AYAT_4" target="S08" id="NP_S08">
+  <data key="d15">NP_S08</data>
+  <data key="d16">P_R05_PASAL_5_AYAT_4</data>
+  <data key="d17">S08</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R05 Pasal 5 ayat (4)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R04_PASAL_1_ANGKA_1" target="S09" id="NP_S09">
+  <data key="d15">NP_S09</data>
+  <data key="d16">P_R04_PASAL_1_ANGKA_1</data>
+  <data key="d17">S09</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 1 angka 1</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S10" target="A_GUBERNUR" id="NA_S10_A_GUBERNUR">
+  <data key="d15">NA_S10_A_GUBERNUR</data>
+  <data key="d16">S10</data>
+  <data key="d17">A_GUBERNUR</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 19 ayat (4)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R04_PASAL_19_AYAT_4" target="S10" id="NP_S10">
+  <data key="d15">NP_S10</data>
+  <data key="d16">P_R04_PASAL_19_AYAT_4</data>
+  <data key="d17">S10</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R04 Pasal 19 ayat (4)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_5" target="S11" id="NP_S11">
+  <data key="d15">NP_S11</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_5</data>
+  <data key="d17">S11</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (5)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="S12" target="A_TENAGA" id="NA_S12_A_TENAGA">
+  <data key="d15">NA_S12_A_TENAGA</data>
+  <data key="d16">S12</data>
+  <data key="d17">A_TENAGA</data>
+  <data key="d18">APPLIES_TO</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (6)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_6" target="S12" id="NP_S12">
+  <data key="d15">NP_S12</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_6</data>
+  <data key="d17">S12</data>
+  <data key="d18">STATES_NORM</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (6)</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_3_HURUF_A" target="L01" id="EV_L01">
+  <data key="d15">EV_L01</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_3_HURUF_A</data>
+  <data key="d17">L01</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (3) huruf a</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_4_HURUF_B" target="L04" id="EV_L04">
+  <data key="d15">EV_L04</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_4_HURUF_B</data>
+  <data key="d17">L04</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf b</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_4_HURUF_C" target="L05" id="EV_L05">
+  <data key="d15">EV_L05</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_4_HURUF_C</data>
+  <data key="d17">L05</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf c</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_4_HURUF_D" target="L06" id="EV_L06">
+  <data key="d15">EV_L06</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_4_HURUF_D</data>
+  <data key="d17">L06</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf d</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_4_HURUF_E" target="L07" id="EV_L07">
+  <data key="d15">EV_L07</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_4_HURUF_E</data>
+  <data key="d17">L07</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf e</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_4_HURUF_F" target="L08" id="EV_L08">
+  <data key="d15">EV_L08</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_4_HURUF_F</data>
+  <data key="d17">L08</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf f</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_4_HURUF_G" target="L09" id="EV_L09">
+  <data key="d15">EV_L09</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_4_HURUF_G</data>
+  <data key="d17">L09</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf g</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_4_HURUF_H" target="L10" id="EV_L10">
+  <data key="d15">EV_L10</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_4_HURUF_H</data>
+  <data key="d17">L10</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf h</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_4_HURUF_I" target="L11" id="EV_L11">
+  <data key="d15">EV_L11</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_4_HURUF_I</data>
+  <data key="d17">L11</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf i</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_4_HURUF_J" target="L12" id="EV_L12">
+  <data key="d15">EV_L12</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_4_HURUF_J</data>
+  <data key="d17">L12</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf j</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_4_HURUF_K" target="L13" id="EV_L13">
+  <data key="d15">EV_L13</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_4_HURUF_K</data>
+  <data key="d17">L13</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf k</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+<edge source="P_R06_PASAL_2_AYAT_4_HURUF_L" target="L14" id="EV_L14">
+  <data key="d15">EV_L14</data>
+  <data key="d16">P_R06_PASAL_2_AYAT_4_HURUF_L</data>
+  <data key="d17">L14</data>
+  <data key="d18">ENUMERATES_SERVICE</data>
+  <data key="d19">E1</data>
+  <data key="d20">R06 Pasal 2 ayat (4) huruf l</data>
+  <data key="d21">SOURCE_OR_STRUCTURAL</data>
+  <data key="d22"></data>
+</edge>
+</graph></graphml>
