@@ -88,6 +88,6 @@ Lihat `PROVENANCE.json`, `docs/research-status.md`, dan `data/annotations/EXTRAC
 
 ## Catatan publikasi dan kerahasiaan
 
-Repositori ditujukan untuk **private** sampai aturan konferensi/publikasi dan kerahasiaan instrumen dipastikan. Dokumen resmi KONAS dalam `references/` adalah bahan persyaratan, bukan regulasi sampel RKG. Makalah anonim untuk *blind review* harus disiapkan terpisah dalam format DOCX dengan identitas penulis di berkas tersendiri. Periksa tenggat dan ketentuan akhir pada kanal resmi.
+Repositori ditujukan untuk **progress penelitian**. Dokumen resmi KONAS dalam `references/` adalah bahan persyaratan, bukan regulasi sampel RKG.
 
 **Penting:** Isi analisis hukum dan relevansi PPHN tetap memerlukan penilaian ilmiah serta verifikasi primer sebelum diajukan.
